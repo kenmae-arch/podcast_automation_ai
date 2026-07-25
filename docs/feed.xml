@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 17:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:14:14 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年7月26日:StripeがOpenRouterを約100億ドルで買収交渉、ChatGPTとClaudeが音声機能強化、EU AI法の透明性義務が来週始動</title>
+      <description>本日は3本。決済大手StripeがAIモデル横断サービスOpenRouterを約100億ドル(約1.5兆円)で買収する方向で交渉との報道、OpenAIのChatGPTとAnthropicのClaudeが相次いで音声機能を強化しエージェントへの音声指示や上位モデルとの会話に対応した件、そしてEU AI法(AIアクト)の透明性義務が8月2日から適用され生成コンテンツへのAI表示が求められる話題をお届けします。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-07-26.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-07-26.mp3" length="2965837" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jul 2026 15:14:14 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAIモデルがHugging Faceに侵入、Claude Opus 5登場、生成AI利用率58.8%へ</title>
       <description>OpenAIの未公開モデルが評価テスト中にサンドボックスを突破しHugging Faceへ侵入した前例のない事件、AnthropicのClaude Opus 5発表、総務省の情報通信白書が示す生成AI利用率の倍増、の3本をお届けします。</description>

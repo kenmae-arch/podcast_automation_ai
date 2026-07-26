@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 15:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:14:11 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年7月27日:史上最大のオープンAIモデル「Kimi K3」公開、2.8兆パラメーターで米トップ級に迫る</title>
+      <description>本日の主役は、中国Moonshot AIが公開する史上最大のオープンウェイトモデル「Kimi K3」。2兆8000億パラメーターの3兆クラスは世界初で、重みは約1.4テラバイト。専門家混合で軽快に動き、Artificial Analysisの総合評価ではClaude Fable 5に次ぐ2位、フロントエンドのコード生成では1位、料金はClaude Sonnet 5並みの手ごろさ。米国の半導体規制下でも中国勢がオープンモデルでトップ級に迫る構図と、その意味をお届けします。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-07-27.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-07-27.mp3" length="2983809" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 15:14:11 +0000</pubDate>
+    </item>
     <item>
       <title>2026年7月26日:StripeがOpenRouterを約100億ドルで買収交渉、ChatGPTとClaudeが音声機能強化、EU AI法の透明性義務が来週始動</title>
       <description>本日は3本。決済大手StripeがAIモデル横断サービスOpenRouterを約100億ドル(約1.5兆円)で買収する方向で交渉との報道、OpenAIのChatGPTとAnthropicのClaudeが相次いで音声機能を強化しエージェントへの音声指示や上位モデルとの会話に対応した件、そしてEU AI法(AIアクト)の透明性義務が8月2日から適用され生成コンテンツへのAI表示が求められる話題をお届けします。</description>

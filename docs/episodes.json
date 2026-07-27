@@ -19,5 +19,12 @@
     "audio_file": "episode_2026-07-27.mp3",
     "size_bytes": 2983809,
     "published": "2026-07-26T15:14:11.475813+00:00"
+  },
+  {
+    "title": "2026年7月28日:業界が「オープンモデル規制反対」で結束、NVIDIA主導のセキュリティ連合「Open Secure AI Alliance」も発足",
+    "description": "今日のテーマは『オープン』。1本目は、NVIDIA・Microsoft・OpenAIらが数日前に出した、オープンウェイトモデルへの過度な規制に反対する共同声明。Jensen HuangやSundar Pichai、Sam Altmanが賛同し、Meta・SpaceX・IBM・Mistral・日本のSakana AIも署名、一方でAnthropic不在という構図を紹介します。2本目は7月27日にNVIDIAが立ち上げた業界連合『Open Secure AI Alliance』。Microsoft・IBM・CrowdStrike・Hugging Faceなど30社超が参加する一方、OpenAI・Google・Anthropic・Metaが不在。先のHugging Faceへの自律型サイバー攻撃を背景に、オープンをめぐる各社の思惑の交差をお届けします。",
+    "audio_file": "episode_2026-07-28.mp3",
+    "size_bytes": 3017664,
+    "published": "2026-07-27T15:14:15.375653+00:00"
   }
 ]

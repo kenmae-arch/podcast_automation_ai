@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 15:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 15:14:34 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月2日:ビッグテック決算でAI投資が桁違いに、アマゾンは設備投資2200億ドルへ引き上げ・メタは支出膨張で株安</title>
+      <description>本日のテーマは『決算で見えたAIインフラ投資の桁』。先週末に相次いだ米巨大テックの決算を読み解きます。マイクロソフトはAzureが四半期43%成長・年間売上1000億ドル突破で株高。メタは売上28%増も設備投資見通しを1300〜1450億ドルへ引き上げ、フリーキャッシュフローが約9割減となり株安。アマゾンはAWSが37%成長し、Andy Jassy氏が年間設備投資を約2200億ドルへ増額、それでも需要に足りないと表明。実需を示せるかで市場の明暗が分かれた決算ウィークを解説します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-02.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-02.mp3" length="3274291" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 15:14:34 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月1日:欧州委員会がAIギガファクトリー入札を正式開始、エヌスケールがRay開発元エニースケールを約16.5億ドルで買収</title>
       <description>本日はAIの土台=計算資源をめぐる動きを2本。1本目は、欧州委員会が7月30日にAIギガファクトリーの入札を正式開始した話題。最大7拠点、公的資金100億ユーロ・総額300億ユーロ規模で、エヌビディア・AMD・クアルコムと調達の意向書を交わし、締切は11月12日。米中に握られた計算能力を取り戻す技術主権の狙いを解説します。2本目は、英AIクラウドのエヌスケールがオープンソース基盤Rayを生んだエニースケールを約16.5億ドルで買収し、ハードからソフトまで一気通貫を狙う動きを紹介します。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:13:08 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月3日:EU AI法の透明性ルールが始動、チャットボット表示と生成物ラベルが義務に</title>
+      <description>本日は、EU AI法第50条の透明性ルールが8月2日に適用開始した話題です。チャットボットでAIとの対話を知らせる義務、生成コンテンツへの機械可読マーク、ディープフェイクや公共性のある文章の明示、最大1500万ユーロまたは世界売上高3%の罰金を解説。汎用AIモデルへの本格執行開始と、高リスクAI規制が2027年以降へ延期された点も整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-03.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-03.mp3" length="3579401" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 15:13:08 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月2日:ビッグテック決算でAI投資が桁違いに、アマゾンは設備投資2200億ドルへ引き上げ・メタは支出膨張で株安</title>
       <description>本日のテーマは『決算で見えたAIインフラ投資の桁』。先週末に相次いだ米巨大テックの決算を読み解きます。マイクロソフトはAzureが四半期43%成長・年間売上1000億ドル突破で株高。メタは売上28%増も設備投資見通しを1300〜1450億ドルへ引き上げ、フリーキャッシュフローが約9割減となり株安。アマゾンはAWSが37%成長し、Andy Jassy氏が年間設備投資を約2200億ドルへ増額、それでも需要に足りないと表明。実需を示せるかで市場の明暗が分かれた決算ウィークを解説します。</description>

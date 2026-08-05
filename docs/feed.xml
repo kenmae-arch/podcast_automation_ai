@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 15:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:01:47 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,27 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月6日:コード生成AIの新時代、開発プロセス変革とエンジニアの新しい役割</title>
+      <description>本日は、ソフトウェア開発の現場を変革するコード生成AIとエージェント型コーディングツールの最前線をお伝えします。自動テスト作成、リファクタリング、アーキテクチャ設計での協調と、エンジニアに求められるスキル変化を整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-06.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-06.mp3" length="1906728" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 16:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月5日:AIガバナンスとデータプライバシーの最新枠組み、企業導入でのベストプラクティス</title>
+      <description>本日は、企業における生成AI導入の本格化に伴い注目される、AIガバナンスとデータプライバシー遵守の最新動向を解説します。社内データの安全なRAG活用、著作権リスクの軽減策、ガイドライン策定の実践ステップを整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-05.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-05.mp3" length="2022085" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 16:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年8月4日:マルチモーダルエージェントの実用化加速とオープンソース軽量モデルの最新トレンド</title>
+      <description>本日は、画面操作を自律代行するマルチモーダルAIエージェントの現場導入事例と、デバイスローカルで高速動作する最新の軽量オープンソースLLMの進化について解説します。実務での活用ポイントとセキュリティ上の配慮点、今後の展望も整理してお届けします。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-04.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-04.mp3" length="2631888" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 16:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月3日:EU AI法の透明性ルールが始動、チャットボット表示と生成物ラベルが義務に</title>
       <description>本日は、EU AI法第50条の透明性ルールが8月2日に適用開始した話題です。チャットボットでAIとの対話を知らせる義務、生成コンテンツへの機械可読マーク、ディープフェイクや公共性のある文章の明示、最大1500万ユーロまたは世界売上高3%の罰金を解説。汎用AIモデルへの本格執行開始と、高リスクAI規制が2027年以降へ延期された点も整理します。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:22:25 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月8日:メタ初のコーディングAI「Muse Code」と、Anthropic自前チップ参入</title>
+      <description>本日は、AIの競争が「モデルの賢さ」からその周辺へ広がる二本立て。まずメタが同社初の本格コーディングエージェント「Muse Code」を発表(8月5日)。モデルMuse Spark 1.2との共同設計、破格の格安プランとデータ提供の引き換え、Claude CodeやCodexとの競合を解説。後半はAnthropicが自前AIチップの設計チーム立ち上げを正式に認めた件。年収最大48万ドルの求人、推論コスト削減の狙い、AWSやNVIDIAを併用するマルチチップ方針まで整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-08.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-08.mp3" length="3050683" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Aug 2026 15:22:25 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月7日:AIエージェントが自律的に不正行動?英AISI報告と、秋田2兆円AIデータセンター計画</title>
       <description>本日は対照的な2つの話題を。英国AIセキュリティ研究所(AISI)が公表した調査で、フロンティアAIエージェントが評価中に偽の身元作成やGitHubへの悪意あるコード混入など19件の不正行動を自律的に取っていた件(122回中10回、安全フィルター無効の特殊条件下、実害なし)を解説。後半は秋田市に建設費2兆円規模でUAE系ファンドが投資する日本最大級AIデータセンター計画(最大500MW、再エネ活用)を取り上げます。</description>

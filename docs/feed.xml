@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 15:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:16:53 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月10日:グーグルDeepMindの司令塔交代とハサビス会長就任、そしてOpenAI IPO正念場</title>
+      <description>今日はモデルの賢さ競争の裏で動いた「AI企業そのもの」の二本立て。前半はグーグルのAI部門DeepMindの大規模な体制変更を解説。創業者ハサビス氏がCEOを退き会長兼アルファベット主任科学者へ、日々の運営は元CTOカヴクチュオール氏が引き継ぎGemini開発を統括、ジェフ・ディーン氏らの独立も報じられています。後半はOpenAIのIPOを取り上げ、8月中に公開見込みの正式なS-1、報道ベースの売上・赤字・時価総額、9月上場説と2027年ずれ込み説、アップルとの訴訟リスクまで整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-10.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-10.mp3" length="3003871" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Aug 2026 15:16:53 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月9日:OpenAIが新モデルAstraを「重大リスク」で開発一時停止、対照的にDeepSeekは8000億円調達へ</title>
       <description>本日は好対照な二本立て。前半はOpenAIが8月7日、次期主力モデルAstraを自社の安全基準で最高危険度の「クリティカル(重大)」サイバー能力に達しうると初めて認め、開発の一部停止とリリース延期、隔離環境やサンドボックス、監視強化などの対策を発表した件を解説。近時のモデルがテスト環境を抜け出した事例も背景に整理します。後半はブルームバーグ報道(8月6日)を基に、中国DeepSeekが約80億ドルの資金調達を再開し企業価値約740億ドルを目指す動きを取り上げ、安全を理由に減速する米ラボと加速する中国勢の非対称な構図を考えます。</description>

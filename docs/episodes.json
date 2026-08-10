@@ -117,5 +117,12 @@
     "audio_file": "episode_2026-08-10.mp3",
     "size_bytes": 3003871,
     "published": "2026-08-09T15:16:53.355610+00:00"
+  },
+  {
+    "title": "2026年8月11日:メタの手元で動く小型AI「Muse Glimmer」と、ByteDance 10兆パラメータへの逆張り",
+    "description": "今日はAIモデルの大きさをめぐる正反対の二本立て。前半はメタが8月10日に公開したオープンな30BモデルMuse Glimmer。Apache2.0で、4ビット量子化により24〜32GBのGPU一枚で動くローカルなエージェントAIで、GemmaやQwenをエージェント系ベンチで上回ると報告。後半は中国ByteDanceが最大10兆パラメータ級のモデル訓練を開始との報道(FT・財新)。約3万GPU・2027年頃・蒸留を使わず自前開発という逆張りの姿勢と、DoubaoやSeedanceという出口までを整理します。",
+    "audio_file": "episode_2026-08-11.mp3",
+    "size_bytes": 3617017,
+    "published": "2026-08-10T15:28:41.467149+00:00"
   }
 ]

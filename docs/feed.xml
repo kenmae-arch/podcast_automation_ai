@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:23:05 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月12日:OpenAIが攻撃的能力を持つサイバー専用AI「GPT-5.6-Cyber」を解禁、Daybreakを青と赤の二層に</title>
+      <description>今日はOpenAIが8月10日に発表したサイバーセキュリティの新展開を深掘り。防御者支援プログラムDaybreakをBlueとRedの二層に拡張し、Red向けに専用モデルGPT-5.6-Cyberを投入しました。通常モデルが1.5%しか応じない高度な攻撃系の質問に95%回答し、ChromeのエンジンV8で未知の脆弱性2件を発見して高深刻度CVEに。本人確認や法的誓約、9月1日からのセキュリティキー義務化、危険度「ハイ」の位置づけ、そして先日Astraを止めたOpenAIとの対比まで整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-12.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-12.mp3" length="3839835" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 15:23:05 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月11日:メタの手元で動く小型AI「Muse Glimmer」と、ByteDance 10兆パラメータへの逆張り</title>
       <description>今日はAIモデルの大きさをめぐる正反対の二本立て。前半はメタが8月10日に公開したオープンな30BモデルMuse Glimmer。Apache2.0で、4ビット量子化により24〜32GBのGPU一枚で動くローカルなエージェントAIで、GemmaやQwenをエージェント系ベンチで上回ると報告。後半は中国ByteDanceが最大10兆パラメータ級のモデル訓練を開始との報道(FT・財新)。約3万GPU・2027年頃・蒸留を使わず自前開発という逆張りの姿勢と、DoubaoやSeedanceという出口までを整理します。</description>

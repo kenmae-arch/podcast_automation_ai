@@ -131,5 +131,12 @@
     "audio_file": "episode_2026-08-12.mp3",
     "size_bytes": 3839835,
     "published": "2026-08-11T15:23:05.148931+00:00"
+  },
+  {
+    "title": "2026年8月13日:NVIDIAが放つ効率の二枚看板、Nemotron 3.5 LightningとモデルルーターNeMo Switchyard",
+    "description": "今日はNVIDIAが8月11日に発表したエージェントAI向けオープン技術の二本立て。前半は30BのMoEモデルNemotron 3.5 Lightning。動くのは30億パラメータだけで速度4倍、Mamba-2ハイブリッドで100万トークン対応、RTXやDGX Sparkで動くローカル志向を解説。後半はモデルの振り分け役NeMo Switchyard。用途ごとに最適なモデルへ自動ルーティングし、コグニションで28%、ランプで58%のコスト削減。巨大化からルーティングと効率へ移る2026年の潮流を読み解きます。",
+    "audio_file": "episode_2026-08-13.mp3",
+    "size_bytes": 2984227,
+    "published": "2026-08-12T15:23:15.381440+00:00"
   }
 ]

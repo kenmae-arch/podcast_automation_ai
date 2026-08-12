@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:23:15 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月13日:NVIDIAが放つ効率の二枚看板、Nemotron 3.5 LightningとモデルルーターNeMo Switchyard</title>
+      <description>今日はNVIDIAが8月11日に発表したエージェントAI向けオープン技術の二本立て。前半は30BのMoEモデルNemotron 3.5 Lightning。動くのは30億パラメータだけで速度4倍、Mamba-2ハイブリッドで100万トークン対応、RTXやDGX Sparkで動くローカル志向を解説。後半はモデルの振り分け役NeMo Switchyard。用途ごとに最適なモデルへ自動ルーティングし、コグニションで28%、ランプで58%のコスト削減。巨大化からルーティングと効率へ移る2026年の潮流を読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-13.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-13.mp3" length="2984227" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Aug 2026 15:23:15 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月12日:OpenAIが攻撃的能力を持つサイバー専用AI「GPT-5.6-Cyber」を解禁、Daybreakを青と赤の二層に</title>
       <description>今日はOpenAIが8月10日に発表したサイバーセキュリティの新展開を深掘り。防御者支援プログラムDaybreakをBlueとRedの二層に拡張し、Red向けに専用モデルGPT-5.6-Cyberを投入しました。通常モデルが1.5%しか応じない高度な攻撃系の質問に95%回答し、ChromeのエンジンV8で未知の脆弱性2件を発見して高深刻度CVEに。本人確認や法的誓約、9月1日からのセキュリティキー義務化、危険度「ハイ」の位置づけ、そして先日Astraを止めたOpenAIとの対比まで整理します。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:37:41 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月14日:アンソロピックが動画とワールドモデルのDecartを約60億ドルで買収交渉、そしてGrok 4.6が長時間エージェントに照準</title>
+      <description>今日はモデル競争の裏で進む二つの動きを深掘り。前半はアンソロピックがイスラエルのスタートアップDecartを約60億ドルで買収する方向で交渉中との報道。リアルタイム動画のLucy、ロボットや自動運転の学習環境を生むワールドモデルOasis、そしてGPUを効率化する技術を、IPOを前にした推論・性能部門の増強という狙いから読み解きます。後半はSpaceXAIが8月12日に公開したGrok 4.6。50万トークンの文脈と長時間エージェント特化、価格やベンチマークでの立ち位置まで整理します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-14.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-14.mp3" length="3700236" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Aug 2026 15:37:41 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月13日:NVIDIAが放つ効率の二枚看板、Nemotron 3.5 LightningとモデルルーターNeMo Switchyard</title>
       <description>今日はNVIDIAが8月11日に発表したエージェントAI向けオープン技術の二本立て。前半は30BのMoEモデルNemotron 3.5 Lightning。動くのは30億パラメータだけで速度4倍、Mamba-2ハイブリッドで100万トークン対応、RTXやDGX Sparkで動くローカル志向を解説。後半はモデルの振り分け役NeMo Switchyard。用途ごとに最適なモデルへ自動ルーティングし、コグニションで28%、ランプで58%のコスト削減。巨大化からルーティングと効率へ移る2026年の潮流を読み解きます。</description>

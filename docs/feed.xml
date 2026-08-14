@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:52:43 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月15日:安くて強いコーディングモデルの連打、Gemini 3.7 FlashとZ.aiのGLM-5.3</title>
+      <description>今日はコーディングとエージェント向けの新モデルが二社から立て続けに出た話題。前半はグーグルが8月13日に公開したGemini 3.7 Flash。ゼロから学習し直さず前版の推論部を磨いた改良版で、FrontierCodeやDeepSWEが大幅向上、価格は前Flashの半額の入力0.75ドル・出力3.75ドル。後半は8月14日発表のZ.ai(智譜)のGLM-5.3。743Bのベースは据え置き、ポストトレーニングのスケールだけでコーディング約50%向上、オープンウェイト最強を主張。重みは約2週間後に公開予定。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-15.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-15.mp3" length="3920501" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 16:52:43 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月14日:アンソロピックが動画とワールドモデルのDecartを約60億ドルで買収交渉、そしてGrok 4.6が長時間エージェントに照準</title>
       <description>今日はモデル競争の裏で進む二つの動きを深掘り。前半はアンソロピックがイスラエルのスタートアップDecartを約60億ドルで買収する方向で交渉中との報道。リアルタイム動画のLucy、ロボットや自動運転の学習環境を生むワールドモデルOasis、そしてGPUを効率化する技術を、IPOを前にした推論・性能部門の増強という狙いから読み解きます。後半はSpaceXAIが8月12日に公開したGrok 4.6。50万トークンの文脈と長時間エージェント特化、価格やベンチマークでの立ち位置まで整理します。</description>

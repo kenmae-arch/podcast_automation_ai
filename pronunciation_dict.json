@@ -145,5 +145,14 @@
   "Terminal-Bench 3.0": "ターミナルベンチ サンテンゼロ",
   "Terminal-Bench": "ターミナルベンチ",
   "CyberGym": "サイバージム",
-  "ExploitBench": "エクスプロイトベンチ"
+  "ExploitBench": "エクスプロイトベンチ",
+  "Qwen3.8": "クウェンサンテンハチ",
+  "27B": "ニジュウナナビー",
+  "Crash Fuzzer": "クラッシュファザー",
+  "Slack": "スラック",
+  "SDK": "エスディーケー",
+  "ModelScope": "モデルスコープ",
+  "iOS": "アイオーエス",
+  "Android": "アンドロイド",
+  "SWE-bench": "エスダブリューイーベンチ"
 }

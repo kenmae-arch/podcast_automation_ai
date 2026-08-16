@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 15:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 15:21:03 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月17日:安さの代名詞DeepSeekが最大11倍超の値上げへ、時間帯別課金を導入——価格戦争の逆流</title>
+      <description>今日は一本立てでじっくり。低価格を武器に世界を驚かせてきた中国のDeepSeekが、日本時間8月17日午前1時からAPI料金を大幅値上げ。幅は50%から最大1100%超で、主力V4-Flashの出力は百万トークン一律0.28ドルからピーク1.32ドルへ。UTC基準のピーク・オフピーク時間帯別課金も導入し、上位モデルV4-Proも投入。値下げ合戦を続ける欧米大手との対比から、計算資源の逼迫という本当の競争軸を読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-17.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-17.mp3" length="3168129" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Aug 2026 15:21:03 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月16日:クロードが自社アプリのお守りを始めた話と、動画まで読むオープンモデルQwen3.8-27B</title>
       <description>今日は二本立て。前半はアンソロピックが自社アプリ群の日々の保守をClaude Codeに任せ始めた話。iOSからCLIまで横断し、数週間で388件のプルリクを作り、人間のレビューを経て約46パーセントがマージ。わざとクラッシュさせ原因を直すクラッシュファザーなどの舞台裏を紹介します。後半は8月14日公開のアリババのオープンモデルQwen3.8-27B。Apache2.0で重みを公開し、画像や長時間動画まで読み、26万トークンの文脈を持ちつつ手元のマシンで動く実力派。上位には2.4兆パラメータの巨大版も。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 15:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:16:12 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月18日:決済大手ストライプがAIの乗り換え案内所オープンルーターを70億ドル超で買収——モデルルーティングが決済インフラになる日</title>
+      <description>今日は一本立て。決済サービスの巨人ストライプが、世界400以上のAIモデルへ一つの窓口でつなぐスタートアップ、オープンルーターを70億ドル超(1兆円規模)で買収することで合意。ブルームバーグが8月16日に報じました。2023年創業、利用者およそ800万人・月100兆トークンを裁く同社は、この5月のシリーズBで評価額13億ドルになったばかりで、3カ月で5倍超の跳ね上がり。なぜ決済会社がモデルルーティングを買うのか、AIの計測・課金という新たな主戦場を、前日のディープシーク値上げとも重ねて読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-18.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-18.mp3" length="3925516" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Aug 2026 15:16:12 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月17日:安さの代名詞DeepSeekが最大11倍超の値上げへ、時間帯別課金を導入——価格戦争の逆流</title>
       <description>今日は一本立てでじっくり。低価格を武器に世界を驚かせてきた中国のDeepSeekが、日本時間8月17日午前1時からAPI料金を大幅値上げ。幅は50%から最大1100%超で、主力V4-Flashの出力は百万トークン一律0.28ドルからピーク1.32ドルへ。UTC基準のピーク・オフピーク時間帯別課金も導入し、上位モデルV4-Proも投入。値下げ合戦を続ける欧米大手との対比から、計算資源の逼迫という本当の競争軸を読み解きます。</description>

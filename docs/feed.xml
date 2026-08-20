@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:16:45 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月21日:中国ユニツリーが人型ロボ初上場で初日プラス460%、時価総額7兆円——世界ロボット大会の熱狂と「シャツ一枚たためない」現実</title>
+      <description>今日は一本立て。中国のロボット企業ユニツリーが8月19日に上海のスター市場へ上場し、初日は一時プラス629%、終値プラス460%と急騰、時価総額はおよそ7兆円(500億ドル)規模に。中国本土で人型ロボット企業として初の株式公開で、注文は売り出し株数の8000倍超、出資者にはディープシークやテンセントも。同じ日に北京で開幕した世界ロボット大会ではシャオミが初の人型ロボを披露する一方、実演での転倒やシャツをたためない場面も。米FCCの中国製ロボット輸入禁止方針も重ね、株式市場の熱狂と実力のギャップを読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-21.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-21.mp3" length="3357465" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Aug 2026 15:16:45 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月20日:アンソロピックの売上が年換算9兆円超えでOpenAIを逆転、秋のIPOへ——NVIDIAは15兆円規模でオハイオのAI拠点を保証</title>
       <description>今日は二本立て。AIの主戦場が「賢さ」から「資本」へ。Anthropicの年換算売上ランレートが650億ドル(約9兆円)を突破し、OpenAIの約400億ドルを逆転、モルガン・スタンレーらを主幹事に秋のIPOを非公開申請と報じられました(ブルームバーグ/CNBC・8月17日)。もう一本は、NVIDIAがOpenAI向けオハイオ州データセンターに最大1050億ドルの債務保証を引き受け、ソフトバンク傘下SB Energyに15億ドル出資、最大8ギガワットの計算力を確保する件(CNBC/アクシオス・8月17日)。売上・上場・電力から2026年夏のAIマネーゲームを読み解きます。</description>

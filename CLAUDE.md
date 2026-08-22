@@ -47,3 +47,32 @@
 - feedparserは直接URLを渡すとSSLエラーになる環境があるため、`topic_fetcher.py` はrequests経由で取得している
 - ローカルにffmpegがないため、複数チャンクの結合はバイト連結フォールバックで動く
 - Fish Audioモデルは `s2.1-pro-free` 固定(完全無料・フェアユース)。変更禁止
+
+## 読みの事前チェック(check_readings.py) — 2026-08-22 ユーザーFBで導入
+
+読み間違いを「出してから直す」のをやめ、**生成前に止める**。`main.py` が音声生成の直前に
+`check_readings.analyze()` を呼び、危険度 block の語が未登録なら音声を作らずに終了する
+(台本は `scripts/pending.json` に残るので、読みを登録して再実行すればよい)。
+
+| 危険度 | 対象 | 挙動 |
+| --- | --- | --- |
+| block | 数字+分/試合、`GPT-5`/`GLM-5.3` 型の英数字、辞書にない人名(直後が「選手」「監督」「CEO」など) | **音声生成を中止** |
+| warn | その他の英字・数字+助数詞 | 生成は継続。ログに一覧を出す |
+| info | 初出の漢字語 | 生成は継続。ログに一覧を出す |
+
+```
+python check_readings.py                     # scripts/pending.json をチェック
+python check_readings.py --approve Rebellions 朴誠賢  # そのままで正しく読めると確認できた語を登録
+python check_readings.py --seed              # 配信済み台本の漢字語を確認済みに取り込む
+```
+
+- 確認済みの語は `reading_safelist.json` に貯まる。使うほどノイズが減る。
+- **朝の運用**(2026-08-22 ユーザー選択: ハイブリッド / 判断できないものだけ聞く):
+  blockで止まっていたら、自分で判断できる語は辞書に入れ、
+  本当に迷う語(人名・地名・略称)だけを「この読みで合ってますか」とユーザーに確認する。
+
+## 技術メモ
+
+- 実行環境: scratchpadのvenv(なければ `python3 -m venv` で作成して `pip install -r requirements.txt`)
+- feedparserは直接URLを渡すとSSLエラーになる環境があるため、`topic_fetcher.py` はrequests経由で取得している
+- ローカルにffmpegがないため、複数チャンクの結合はバイト連結フォールバックで動く

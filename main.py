@@ -4,11 +4,14 @@
   台本はClaude Code等が事前に作成する(LLM API不要・無料)。
 - gemini/groqモード: トピック取得 → LLMで台本生成 → 音声化 → RSS更新。
 """
+import json
 import logging
 import shutil
 import sys
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
+import check_readings
 import config
 from audio_generator import create_audio_generator
 from rss_manager import RSSManager
@@ -20,19 +23,42 @@ logger = logging.getLogger(__name__)
 JST = timezone(timedelta(hours=9))
 
 
+def _used_episode_stems() -> set[str]:
+    """過去に一度でも使った音声ファイル名(拡張子なし)を集める。
+
+    ディスク上の音声だけを見ると、差し替えで旧音声を削除した際に同じ名前が
+    再利用され、配信側のキャッシュに古い音声が残ったままになる。
+    アーカイブ済み台本とRSSの記録も併せて見て、名前を使い回さないようにする。
+    """
+    stems = {p.stem for p in config.AUDIO_DIR.glob("*.mp3")}
+    if config.PUBLISHED_SCRIPTS_DIR.exists():
+        stems |= {p.stem for p in config.PUBLISHED_SCRIPTS_DIR.glob("*.json")}
+    episodes_json = config.DOCS_DIR / "episodes.json"
+    if episodes_json.exists():
+        try:
+            for ep in json.loads(episodes_json.read_text(encoding="utf-8")):
+                if ep.get("audio_file"):
+                    stems.add(Path(ep["audio_file"]).stem)
+        except (ValueError, TypeError):
+            logger.warning("episodes.json を読めませんでした(名前の重複チェックは音声ファイルのみ)")
+    return stems
+
+
 def _unique_episode_path() -> "config.Path":
     """JST日付ベースで衝突しない音声ファイルパスを返す。
 
     GitHub Actionsランナーは時刻がUTCのため、JST基準で日付を決める。
     同一JST日に複数回生成された場合は連番を付けて上書きを防ぐ。
+    過去に使った名前は(ファイルを消していても)再利用しない。
     """
     jst_today = datetime.now(JST).strftime("%Y-%m-%d")
-    path = config.AUDIO_DIR / f"episode_{jst_today}.mp3"
+    used = _used_episode_stems()
+    stem = f"episode_{jst_today}"
     n = 2
-    while path.exists():
-        path = config.AUDIO_DIR / f"episode_{jst_today}_{n}.mp3"
+    while stem in used:
+        stem = f"episode_{jst_today}_{n}"
         n += 1
-    return path
+    return config.AUDIO_DIR / f"{stem}.mp3"
 
 
 def main() -> int:
@@ -49,6 +75,21 @@ def main() -> int:
         logger.info("=== 2/4 台本取得 (%s) ===", config.LLM_PROVIDER)
         episode = create_script_generator().generate(topics)
         logger.info("台本: %s (%d文字)", episode.title, len(episode.script))
+
+        # 2.5 読みの事前チェック。誤読の実績があるクラス(数字+分/試合、GPT-5型の
+        # 英数字、辞書にない人名)が未登録なら、音声を作らずに台本を残して止める。
+        text = "\n".join((episode.title, episode.description, episode.script))
+        readings = check_readings.analyze(text)
+        if readings["warn"] or readings["info"]:
+            logger.info("読みチェック(参考): %s",
+                        " / ".join([t for t, _ in readings["warn"]] + readings["info"]))
+        if readings["block"]:
+            logger.error("読みが未確認の語があるため音声生成を中止しました:")
+            check_readings.report(text, {"block": readings["block"], "warn": [], "info": []},
+                                  stream=logger.error)
+            logger.error("pronunciation_dict.json に読みを登録するか、"
+                         "python check_readings.py --approve <語> で確認済みにしてから再実行してください")
+            return 1
 
         # 3. 音声生成
         logger.info("=== 3/4 音声生成 (Fish Audio: %s) ===", config.FISH_AUDIO_MODEL)

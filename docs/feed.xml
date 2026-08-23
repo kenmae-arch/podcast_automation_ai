@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:12:58 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月24日:OpenAIが一転「AI安全法SB 53を強化せよ」とカリフォルニアに要請——NVIDIAはAIサーバー15%超値上げ、主役はメモリ高騰</title>
+      <description>今日は二本立て。1本目は、これまでカリフォルニア州のAI安全法「SB 53」に反対していたOpenAIが一転、8月22日に「規制をさらに強化すべきだ」と州に呼びかけた件(テッククランチ等)。訓練中モデルの監視強化やサイバー防御の義務化を提案し、州が国の基準の土台を作る「リバース・フェデラリズム」を掲げました。2本目は、NVIDIAがAIサーバー価格を15%超引き上げると主要顧客に通知(ブルームバーグ8月22日)。ヴェラ・ルビン等の次世代機が対象で、真因はDRAMメモリの高騰。GPUに続き「メモリの奪い合い」が新たな焦点に浮上する2026年夏を読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-24.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-24.mp3" length="3145977" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Aug 2026 15:12:58 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月23日:DeepSeekが画像も読める「V4 Flash Vision」を公開——実力はOpus 4.8に迫り、画像1000枚が数十円という衝撃価格</title>
       <description>今日は一本立て。中国のDeepSeekが8月21日、初めて画像を読み取れるマルチモーダルモデル「DeepSeek V4 Flash Vision」を実験版としてAPIで公開しました(PC Watch等の報道)。テキスト性能はV4 Flash相当のまま画像理解を追加し、マルチモーダルなエージェント評価の一部項目ではAnthropicのOpus 4.8を上回ったと発表。価格は画像1000枚の処理で1元前後、日本円で数十円という破格です。実験的な位置づけで重みは未公開という注意点も含め、フロンティアと激安が同居し始めた2026年夏のAIを読み解きます。</description>

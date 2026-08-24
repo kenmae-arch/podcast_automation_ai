@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:14:41 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月25日:アリババが1.5兆円規模のAI増資を発表——シャオペンのロボット部門も900億円超を調達、中国「フィジカルAI」に資金が殺到</title>
+      <description>今日は二本立て。1本目は、中国のアリババが8月23日に約102億ドル(1兆5000億円規模)の新株発行を決めた件。調達資金は全額をAIインフラなどフルスタックのAI能力に投じる方針で、同社のモデル群クウェンは累計30億ダウンロード超、クラウド事業は前年比45%増と好調です。2本目は、EV大手シャオペンのロボット子会社が8月24日に9億ドル超を調達し、企業価値が63億ドル超になった件。人型ロボット「アイアン」を年内量産へ動かす狙いで、テンセントやアリババも出資しました。クラウドの計算基盤と、現実世界で動くフィジカルAIの両方に、中国マネーが一気に流れ込む2026年夏を読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-25.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-25.mp3" length="3808025" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 15:14:41 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月24日:OpenAIが一転「AI安全法SB 53を強化せよ」とカリフォルニアに要請——NVIDIAはAIサーバー15%超値上げ、主役はメモリ高騰</title>
       <description>今日は二本立て。1本目は、これまでカリフォルニア州のAI安全法「SB 53」に反対していたOpenAIが一転、8月22日に「規制をさらに強化すべきだ」と州に呼びかけた件(テッククランチ等)。訓練中モデルの監視強化やサイバー防御の義務化を提案し、州が国の基準の土台を作る「リバース・フェデラリズム」を掲げました。2本目は、NVIDIAがAIサーバー価格を15%超引き上げると主要顧客に通知(ブルームバーグ8月22日)。ヴェラ・ルビン等の次世代機が対象で、真因はDRAMメモリの高騰。GPUに続き「メモリの奪い合い」が新たな焦点に浮上する2026年夏を読み解きます。</description>

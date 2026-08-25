@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:22:14 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月26日:政府が生成AIに「知財保護ルール」策定——学習データ開示を要請、海外勢も対象。米新興はゲーム映像でロボットを鍛え評価額9000億円へ</title>
+      <description>今日は二本立て。1本目は、日本政府が8月25日に生成AI事業者向けの「プリンシプル・コード(行動原則)」を決定した件(日経・時事など)。学習方法やモデル概要の開示、権利者・利用者からの照会対応の三原則を柱に、グーグルなど海外勢も対象。法的拘束力はなく今秋から届け出を受付。2本目は、AIエージェントに現実世界での動きを教える基盤モデルをテレビゲーム映像で訓練する米ジェネラル・インテュイションが、評価額約60億ドル(約9000億円)で資金調達中とテッククランチが8月24日に報道。数週間前の23億ドルから急騰し、ロボットへの応用を狙います。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-26.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-26.mp3" length="3138454" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Aug 2026 15:22:14 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月25日:アリババが1.5兆円規模のAI増資を発表——シャオペンのロボット部門も900億円超を調達、中国「フィジカルAI」に資金が殺到</title>
       <description>今日は二本立て。1本目は、中国のアリババが8月23日に約102億ドル(1兆5000億円規模)の新株発行を決めた件。調達資金は全額をAIインフラなどフルスタックのAI能力に投じる方針で、同社のモデル群クウェンは累計30億ダウンロード超、クラウド事業は前年比45%増と好調です。2本目は、EV大手シャオペンのロボット子会社が8月24日に9億ドル超を調達し、企業価値が63億ドル超になった件。人型ロボット「アイアン」を年内量産へ動かす狙いで、テンセントやアリババも出資しました。クラウドの計算基盤と、現実世界で動くフィジカルAIの両方に、中国マネーが一気に流れ込む2026年夏を読み解きます。</description>

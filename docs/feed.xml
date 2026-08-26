@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:25:06 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月27日:Anthropicが史上最大級のIPOへ、S-1公開が目前——評価額140兆円超。NVIDIAは推論特化チップGroq 3 LPXを本格量産</title>
+      <description>今日は二本立て。1本目は、Claudeを開発するAnthropicの新規株式公開(IPO)。正式な目論見書S-1を早ければ8月末に一般公開、10月にナスダック上場を狙うと報じられ、5月時点の評価額は約9650億ドル(140兆円超)。投資銀行は1兆ドル超も視野とし、申請書には「AIへの反発」がリスク要因として明記される見通し。OpenAIも9月上場を準備中で、二大巨頭がそろって市場デビューへ。2本目は、NVIDIAが8月24日に推論特化アクセラレータGroq 3 LPXの本格量産を発表。次世代基盤ヴェラ・ルビンを拡張し、AIエージェント時代に不可欠な応答速度を追求。最初の採用先はクラウド事業者ネビウス。上場ラッシュで集めた巨額マネーが推論インフラへ流れ込む構図を読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-27.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-27.mp3" length="3285158" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Aug 2026 15:25:06 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月26日:政府が生成AIに「知財保護ルール」策定——学習データ開示を要請、海外勢も対象。米新興はゲーム映像でロボットを鍛え評価額9000億円へ</title>
       <description>今日は二本立て。1本目は、日本政府が8月25日に生成AI事業者向けの「プリンシプル・コード(行動原則)」を決定した件(日経・時事など)。学習方法やモデル概要の開示、権利者・利用者からの照会対応の三原則を柱に、グーグルなど海外勢も対象。法的拘束力はなく今秋から届け出を受付。2本目は、AIエージェントに現実世界での動きを教える基盤モデルをテレビゲーム映像で訓練する米ジェネラル・インテュイションが、評価額約60億ドル(約9000億円)で資金調達中とテッククランチが8月24日に報道。数週間前の23億ドルから急騰し、ロボットへの応用を狙います。</description>

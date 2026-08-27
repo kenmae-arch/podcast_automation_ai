@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:20:08 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月28日:AnthropicがClaude in Chromeを正式公開——ブラウザ自律操作と安全対策。Z.aiはGLM-5.3-FlashをMITライセンスでオープン公開、Ox Alphaの正体を明かす</title>
+      <description>今日は二本立て。1本目はアンソロピックがブラウザ拡張「Claude in Chrome」を全有料プランで正式公開。ページ操作を自動化する自律モードを追加する一方、プロンプトインジェクション対策として操作ごとの安全判定を導入し攻撃成功率を約24%から11%へ低減、高リスクサイトは遮断。2本目は中国Z.aiが大規模言語モデルGLM-5.3-FlashをMITライセンス・オープンウェイトで公開。総パラメータ3200億(活性180億)のMoEで画像・動画も扱うマルチモーダル、100万トークン入力、コストは前世代比約1/10。匿名の「Ox Alpha」として先行公開していた正体も明かしました。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-28.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-28.mp3" length="3174399" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Aug 2026 15:20:08 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月27日:Anthropicが史上最大級のIPOへ、S-1公開が目前——評価額140兆円超。NVIDIAは推論特化チップGroq 3 LPXを本格量産</title>
       <description>今日は二本立て。1本目は、Claudeを開発するAnthropicの新規株式公開(IPO)。正式な目論見書S-1を早ければ8月末に一般公開、10月にナスダック上場を狙うと報じられ、5月時点の評価額は約9650億ドル(140兆円超)。投資銀行は1兆ドル超も視野とし、申請書には「AIへの反発」がリスク要因として明記される見通し。OpenAIも9月上場を準備中で、二大巨頭がそろって市場デビューへ。2本目は、NVIDIAが8月24日に推論特化アクセラレータGroq 3 LPXの本格量産を発表。次世代基盤ヴェラ・ルビンを拡張し、AIエージェント時代に不可欠な応答速度を追求。最初の採用先はクラウド事業者ネビウス。上場ラッシュで集めた巨額マネーが推論インフラへ流れ込む構図を読み解きます。</description>

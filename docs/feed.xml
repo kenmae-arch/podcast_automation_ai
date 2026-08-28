@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 15:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:21:27 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年8月29日:エヌビディアがHugging Faceを約1.9兆円で買収と報道——モデル生態系まで掌握へ。一方OpenAIは自社推論チップ「ハラペーニョ」で電力効率エヌビディア超えを主張</title>
+      <description>今日は勢力図が動いたハードウェアの二本立て。1本目は、半導体大手エヌビディアがオープンソースAIの共有拠点Hugging Faceを約129億ドル(約1.9兆円)で買収合意と、ジ・インフォメーションが8月27日に報道(両社の正式発表はなし)。GPUに続きモデルが集まる生態系まで取り込む一手で、中立性や独禁法の論点も。2本目は、そのエヌビディア最大の顧客OpenAIが、ブロードコムと共同開発した自社推論チップ「ハラペーニョ」を発表。電力あたり性能が最新エヌビディア製の1.5〜1.9倍と主張し年内展開へ。両ニュースが示す綱引きを読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-29.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-29.mp3" length="3227897" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Aug 2026 15:21:27 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月28日:AnthropicがClaude in Chromeを正式公開——ブラウザ自律操作と安全対策。Z.aiはGLM-5.3-FlashをMITライセンスでオープン公開、Ox Alphaの正体を明かす</title>
       <description>今日は二本立て。1本目はアンソロピックがブラウザ拡張「Claude in Chrome」を全有料プランで正式公開。ページ操作を自動化する自律モードを追加する一方、プロンプトインジェクション対策として操作ごとの安全判定を導入し攻撃成功率を約24%から11%へ低減、高リスクサイトは遮断。2本目は中国Z.aiが大規模言語モデルGLM-5.3-FlashをMITライセンス・オープンウェイトで公開。総パラメータ3200億(活性180億)のMoEで画像・動画も扱うマルチモーダル、100万トークン入力、コストは前世代比約1/10。匿名の「Ox Alpha」として先行公開していた正体も明かしました。</description>

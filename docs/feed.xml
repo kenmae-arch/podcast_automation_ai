@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:14:24 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -23,11 +23,18 @@
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
     <item>
+      <title>2026年8月29日:グーグルが『ジェミナイ・ドロップス』で新機能8連発——学生に有料プラン1年無料・ウェイモ車内対応・ジェミナイ・ライブ強化。バレット・ゾフ氏がグーグルへ移籍、AI人材争奪戦</title>
+      <description>今日は二本立て。1本目はグーグルが8月分のアップデートをまとめた『ジェミナイ・ドロップス』で8つの新機能を一挙公開。米国外の大学生に有料プラン「グーグルAIプラス」を1年間無料で提供(日本も対象)し、最新モデル「ジェミナイ・オムニ」や学習専用スペース「スチューデントハブ」を開放。対話アシスタント「ジェミナイ・ライブ」にはエージェント統合やデイリーブリーフなど4機能を追加し、自動運転タクシー「ウェイモ」車内でも利用可能に。2本目はシンキング・マシンズ・ラボ共同創業者のバレット・ゾフ氏がグーグル・ディープマインドに研究担当VPとして加入(テッククランチが8月27日報道、本人もXで認める)。OpenAIを経ての移籍で、激化するAI人材争奪戦を象徴する動きを読み解きます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-30.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-30.mp3" length="3703998" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Aug 2026 15:14:24 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年8月29日:エヌビディアがHugging Faceを約1.9兆円で買収と報道——モデル生態系まで掌握へ。一方OpenAIは自社推論チップ「ハラペーニョ」で電力効率エヌビディア超えを主張</title>
       <description>今日は勢力図が動いたハードウェアの二本立て。1本目は、半導体大手エヌビディアがオープンソースAIの共有拠点Hugging Faceを約129億ドル(約1.9兆円)で買収合意と、ジ・インフォメーションが8月27日に報道(両社の正式発表はなし)。GPUに続きモデルが集まる生態系まで取り込む一手で、中立性や独禁法の論点も。2本目は、そのエヌビディア最大の顧客OpenAIが、ブロードコムと共同開発した自社推論チップ「ハラペーニョ」を発表。電力あたり性能が最新エヌビディア製の1.5〜1.9倍と主張し年内展開へ。両ニュースが示す綱引きを読み解きます。</description>
       <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-29_2.mp3</guid>
       <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-08-29_2.mp3" length="3298114" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Aug 2026 15:21:27 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 15:35:16 +0000</pubDate>
     </item>
     <item>
       <title>2026年8月28日:AnthropicがClaude in Chromeを正式公開——ブラウザ自律操作と安全対策。Z.aiはGLM-5.3-FlashをMITライセンスでオープン公開、Ox Alphaの正体を明かす</title>

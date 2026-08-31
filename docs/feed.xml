@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:22:06 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月1日:Anthropicが情報窃取マルウェアによるClaudeセッション乗っ取りを警告——強制サインアウトと返金で対応。OpenAIはコンピューター操作AIの学習用にMacを数万台『爆買い』、Anthropicは借りて対抗</title>
+      <description>今日は二本立て。1本目はAnthropicが8月31日、一部Claudeユーザーに注意喚起。ヴィダーやルマ等の情報窃取型マルウェアがブラウザのセッションクッキーを盗み、二段階認証を突破してアカウントを乗っ取り利用枠を使い切っていた。Anthropicは検知後に強制サインアウト・支払い方法削除・不正請求の返金で対応。2本目はジ・インフォメーション報道で、OpenAIがコンピューター操作AIエージェントの学習用にMac miniとMac Studioを数万台購入。実機のmacOSで鍛える狙いで、Anthropicは同用途をAWS経由で借りて調達。Appleを『AIインフラ銘柄』と見る声も。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-01.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-01.mp3" length="3196132" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Aug 2026 15:22:06 +0000</pubDate>
+    </item>
     <item>
       <title>2026年8月31日:OpenAIがCursorへのモデル提供を11月で打ち切りと通告——マスク陣営との対立が新局面。Anthropicは『AIがAIの安全性を自動研究』する論文を公開</title>
       <description>今日は二本立て。1本目はOpenAIが人気コーディングツールCursorへのGPTモデル提供を11月12日で停止すると通告(CNBC等が8月29日報道)。CursorはイーロンマスクのSpaceXが約600億ドルで買収済みで、OpenAIは規約遵守の保証が持てないと説明。ただしOpenAIモデルはCursorのトラフィックの約5%で影響は限定的。2本目はAnthropicが8月28日に公開した研究。Claude Opus 4.8を自動アライメント研究者として動かし、10種類の望ましくない振る舞いを自ら緩和。効果は最大4.7倍大きいモデルでも残ったと報告する一方、AIがAIを育てるループへの警戒も示しました。</description>

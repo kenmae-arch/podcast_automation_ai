@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:21:51 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月2日:米国防総省がGenAI.milにChatGPT MilとGrok for Governmentを追加——Geminiと三社出そろう。Runwayが『インターフェース・ワールドモデル』Solarisを発表、コード無しで操作画面をリアルタイム生成</title>
+      <description>今日は二本立て。1本目は米国防総省(ペンタゴン)が生成AI基盤「GenAI.mil」にOpenAIのChatGPT MilとxAIのGrok for Governmentを追加(8月31日、TechCrunch等が報道)。従来のGeminiと合わせ三社が出そろい、約300万人の職員のうち170万人超が登録済み。管理対象非機密情報まで扱える最高認定を取得し、軍のカードと支給端末で厳格に管理。ベンダーロックイン回避が狙いだがGrokの安全性には懸念の声も。2本目はRunwayが8月31日に「インターフェース・ワールドモデル」第一号のSolarisを発表。コードを書かずに操作可能な画面を一フレームずつリアルタイム生成する新技術で、NVIDIAと基盤を整備、現在は早期アクセス段階。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-02.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-02.mp3" length="3801800" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Sep 2026 15:21:51 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月1日:Anthropicが情報窃取マルウェアによるClaudeセッション乗っ取りを警告——強制サインアウトと返金で対応。OpenAIはコンピューター操作AIの学習用にMacを数万台『爆買い』、Anthropicは借りて対抗</title>
       <description>今日は二本立て。1本目はAnthropicが8月31日、一部Claudeユーザーに注意喚起。ヴィダーやルマ等の情報窃取型マルウェアがブラウザのセッションクッキーを盗み、二段階認証を突破してアカウントを乗っ取り利用枠を使い切っていた。Anthropicは検知後に強制サインアウト・支払い方法削除・不正請求の返金で対応。2本目はジ・インフォメーション報道で、OpenAIがコンピューター操作AIエージェントの学習用にMac miniとMac Studioを数万台購入。実機のmacOSで鍛える狙いで、Anthropicは同用途をAWS経由で借りて調達。Appleを『AIインフラ銘柄』と見る声も。</description>

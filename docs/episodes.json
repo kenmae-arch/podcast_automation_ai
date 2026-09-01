@@ -271,5 +271,12 @@
     "audio_file": "episode_2026-09-01.mp3",
     "size_bytes": 3196132,
     "published": "2026-08-31T15:22:06.867729+00:00"
+  },
+  {
+    "title": "2026年9月2日:米国防総省がGenAI.milにChatGPT MilとGrok for Governmentを追加——Geminiと三社出そろう。Runwayが『インターフェース・ワールドモデル』Solarisを発表、コード無しで操作画面をリアルタイム生成",
+    "description": "今日は二本立て。1本目は米国防総省(ペンタゴン)が生成AI基盤「GenAI.mil」にOpenAIのChatGPT MilとxAIのGrok for Governmentを追加(8月31日、TechCrunch等が報道)。従来のGeminiと合わせ三社が出そろい、約300万人の職員のうち170万人超が登録済み。管理対象非機密情報まで扱える最高認定を取得し、軍のカードと支給端末で厳格に管理。ベンダーロックイン回避が狙いだがGrokの安全性には懸念の声も。2本目はRunwayが8月31日に「インターフェース・ワールドモデル」第一号のSolarisを発表。コードを書かずに操作可能な画面を一フレームずつリアルタイム生成する新技術で、NVIDIAと基盤を整備、現在は早期アクセス段階。",
+    "audio_file": "episode_2026-09-02.mp3",
+    "size_bytes": 3801800,
+    "published": "2026-09-01T15:21:51.142448+00:00"
   }
 ]

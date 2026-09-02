@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:17:11 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月3日:OpenAIの次世代モデル『Astra』がサイバー能力『クリティカル』認定で公開へ——安全対策を優先しペース減速。AIのトークン料金は過去最安、中国発オープンモデルが価格競争を加速</title>
+      <description>今日は二本立て。1本目はOpenAIが日本時間9月2日、次世代モデル『Astra』の近日公開を発表(CNBC・TechCrunch・Bloomberg等が報道、公式ブログも公開)。同社の安全指針でサイバーセキュリティ能力が初めて最高ランク『クリティカル』に到達し、人手の逐一指示なしにゼロデイ脆弱性を発見し攻撃手法まで構築できると説明。社内評価ではExploitBench満点、未知の脆弱性2件を発見。安全対策として禁止リクエストの拒否率を59%から91.5%へ、思考監視の分類器も導入。高度なサイバー機能はまずテスター限定、防御用途はDaybreak Blueで順次開放。アルトマンCEOは今後のモデルは必要に応じ開発ペースを落とすと表明。2本目はAIのトークン単価が過去最安水準に(CNBC報道)。ムーンショットのKimi K3やDeepSeek等、中国発の低価格オープンモデルが競争を加速し、GoogleのGemini 3.7 Flashは導入5割引き、OpenAIもGPT-5.6 Lunaを値下げ。安さの一方で提供側の収益性が課題に。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-03.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-03.mp3" length="3567698" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Sep 2026 15:17:11 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月2日:米国防総省がGenAI.milにChatGPT MilとGrok for Governmentを追加——Geminiと三社出そろう。Runwayが『インターフェース・ワールドモデル』Solarisを発表、コード無しで操作画面をリアルタイム生成</title>
       <description>今日は二本立て。1本目は米国防総省(ペンタゴン)が生成AI基盤「GenAI.mil」にOpenAIのChatGPT MilとxAIのGrok for Governmentを追加(8月31日、TechCrunch等が報道)。従来のGeminiと合わせ三社が出そろい、約300万人の職員のうち170万人超が登録済み。管理対象非機密情報まで扱える最高認定を取得し、軍のカードと支給端末で厳格に管理。ベンダーロックイン回避が狙いだがGrokの安全性には懸念の声も。2本目はRunwayが8月31日に「インターフェース・ワールドモデル」第一号のSolarisを発表。コードを書かずに操作可能な画面を一フレームずつリアルタイム生成する新技術で、NVIDIAと基盤を整備、現在は早期アクセス段階。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:16:40 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月6日:アンソロピックがクロードでフェルマーの最終定理をLeanに形式化——11日間ほぼ自律で1300万行を生成。英AIインフラNscaleが上場前に最大35億ドル調達へ、NVIDIA・サードポイントが支える</title>
+      <description>今日は二本立て。1本目はアンソロピックが9月4日、AIモデルのクロードを使いフェルマーの最終定理をLeanで形式化したと発表。約11日間ほぼ自律で稼働し、Leanコード約1300万行・定理約3万300件(最終利用2万9500件)・出力トークン約60億を生成、オープンソースのProve2Meで多数のクロードを並列協調させた。既存証明の機械検証であり新定理の発見ではない点も紹介。2本目は英AIインフラのNscaleが上場を前に最大35億ドル調達へ(9月4日テッククランチ報道)。転換社債15億ドルとNVIDIA出資20億ドルが軸でサードポイントが中核、まとめ役はゴールドマン・サックス。先のアンソロピックとの6年450億ドル契約で契約総額は約1030億ドルとされる。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-06.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-06.mp3" length="3594448" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Sep 2026 15:16:40 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月5日:OpenAIがGPT-6 Astraを正式ローンチ、ブロックマン社長『AGIの時代に入った』——ChatGPT各プランへ順次展開。GoogleのWeatherNext 3が1時間ごと5km解像度の気象AIを発表、Microsoftは最安の音声認識で対抗</title>
       <description>今日は二本立てに小ネタを一つ。1本目はOpenAIが次世代モデルGPT-6 Astraを正式ローンチ(9月3日発表、Axios・VentureBeat・OpenAI公式ブログ等)。ChatGPTのPlus・Pro・ビジネス・エンタープライズ向けに順次展開し、API・AWSでも近く提供。テキサスのStargateで10万GPU超の過去最大学習を実施、ブロックマン社長は『AGIの時代に入った』と表明。2本目はGoogle DeepMindのWeatherNext 3(9月3日発表)。1時間ごと・最大5km解像度で世界の天気を予測し、降水精度が最大50%向上、Search・Gemini・Mapsに統合。最後にMicrosoftの音声認識MAI-Transcribe-2を紹介、1時間0.10ドルで最速最安を主張。</description>

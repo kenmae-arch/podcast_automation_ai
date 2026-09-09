@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:16:07 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月10日:OpenAIが『AIがナビエ・ストークス問題を解いた』と発表——1万体のエージェントが88時間、Leanで形式証明。ただし『外力あり』版で数学界は懐疑、功績を巡る論争も</title>
+      <description>今日は単独テーマ。OpenAIが米国時間9月8日、内部の未公開AIモデルが数学の『ミリオン・ダラー問題』ことミレニアム懸賞問題の一つ、ナビエ・ストークス方程式に関する成果を出したと発表。約1万体のAIエージェントが並列で88時間動き、証明はLeanで形式検証。ただし証明できたのは外から力を加えた『外力あり』版で有限時間爆発を示したもので、賞金対象の本来の問題そのものの完全解決ではない点に注意。加えて、NYUのバックマスター氏とAnthropicのアルポーゲ氏の先行研究を巡り、功績と倫理を巡る論争も。OpenAIのビュベック氏は不正の指摘を『事実無根』と否定。AIが自律的に数学研究をこなす時代の光と影を解説します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-10.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-10.mp3" length="3879123" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 15:16:07 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月9日:ミストラルがサムスン主導で30億ユーロ調達、企業価値240億ドルへ——欧州テック史上最大の株式調達。アンソロピックは約60億ドルのデカート買収から撤退</title>
       <description>今日は二本立て。1本目は仏ミストラルが9月8日、サムスン電子主導で30億ユーロ(企業価値210億ユーロ超・約240億ドル)を調達。欧州テック企業として過去最大の株式調達で、1年前からほぼ倍増した。CEOアーサー・マンシュはデータセンター建設と計算能力の確保に充てるとし、AI主権の思惑も背景にある。2本目はアンソロピックが約60億ドルでのイスラエル企業デカート買収交渉から撤退(9月8日ブルームバーグ報道)。デカートは半導体を効率化しAIの学習・運用コストを下げる技術を持ち、創業陣はエヌビディアの高額提示より株式でのアンソロピック案を選好していたと伝わる。撤退の理由は非公表。</description>

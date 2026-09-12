@@ -341,5 +341,12 @@
     "audio_file": "episode_2026-09-11_2.mp3",
     "size_bytes": 3100420,
     "published": "2026-09-11T00:08:37.374332+00:00"
+  },
+  {
+    "title": "2026年9月12日:Sakana AIが『指揮者型』新モデルFugu Max/Ultra v2を発表——巨大モデルに頼らず上位級、DeepSeekは超小型V4.1-Flashで大型V4-Proを置き換えへ",
+    "description": "「大きさ」から「効率とオーケストレーション」へ移るAIの潮流を二本立てで。1本目は日本のSakana AIが9月11日発表のFugu MaxとFugu Ultra v2。多数のオープン/特化モデルを司令塔が振り分ける仕組みで、Fable 5.1やGPT-6 Astraを使わずベンチ上位級、Maxは出力料金が競合比4〜6割安。2本目は中国DeepSeekが9月10日公開のV4.1-Flash。総5520億・実働80億のMoE、MITライセンス、9月14日から上位V4-Proを置き換える。",
+    "audio_file": "episode_2026-09-12.mp3",
+    "size_bytes": 3320266,
+    "published": "2026-09-12T00:04:37.225220+00:00"
   }
 ]

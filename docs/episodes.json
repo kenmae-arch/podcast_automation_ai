@@ -348,5 +348,12 @@
     "audio_file": "episode_2026-09-12.mp3",
     "size_bytes": 3320266,
     "published": "2026-09-12T00:04:37.225220+00:00"
+  },
+  {
+    "title": "2026年9月13日:AIエージェントが世界48カ国・440台を襲撃——GreyNoiseが暴いた自律型サイバー攻撃。一方でClaude CodeやCodexなどAIコーディングツール自身にも脆弱性",
+    "description": "今日はテーマを『AIとセキュリティ』にしぼって二本立て。1本目はGreyNoiseが公開した報告。攻撃者がOpenAIのCodexとDeepSeekのモデルで何百体ものAIエージェントを走らせ、印刷管理ソフトPaperCutの弱点を突いて48カ国・395組織・440台超を侵害。RCE到達まで4時間弱、26秒で11組織を制圧、教育機関が最多204件。2本目はManifold Securityらが指摘したGitSpawn。細工したフォルダでClaude Code・Codex・Cursorなどが信頼確認前に攻撃コードを実行しうる問題で、修正版は配布済み。",
+    "audio_file": "episode_2026-09-13.mp3",
+    "size_bytes": 3910470,
+    "published": "2026-09-12T15:14:15.661260+00:00"
   }
 ]

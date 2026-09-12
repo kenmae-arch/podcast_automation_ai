@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 00:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:14:15 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月13日:AIエージェントが世界48カ国・440台を襲撃——GreyNoiseが暴いた自律型サイバー攻撃。一方でClaude CodeやCodexなどAIコーディングツール自身にも脆弱性</title>
+      <description>今日はテーマを『AIとセキュリティ』にしぼって二本立て。1本目はGreyNoiseが公開した報告。攻撃者がOpenAIのCodexとDeepSeekのモデルで何百体ものAIエージェントを走らせ、印刷管理ソフトPaperCutの弱点を突いて48カ国・395組織・440台超を侵害。RCE到達まで4時間弱、26秒で11組織を制圧、教育機関が最多204件。2本目はManifold Securityらが指摘したGitSpawn。細工したフォルダでClaude Code・Codex・Cursorなどが信頼確認前に攻撃コードを実行しうる問題で、修正版は配布済み。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-13.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-13.mp3" length="3910470" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 15:14:15 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月12日:Sakana AIが『指揮者型』新モデルFugu Max/Ultra v2を発表——巨大モデルに頼らず上位級、DeepSeekは超小型V4.1-Flashで大型V4-Proを置き換えへ</title>
       <description>「大きさ」から「効率とオーケストレーション」へ移るAIの潮流を二本立てで。1本目は日本のSakana AIが9月11日発表のFugu MaxとFugu Ultra v2。多数のオープン/特化モデルを司令塔が振り分ける仕組みで、Fable 5.1やGPT-6 Astraを使わずベンチ上位級、Maxは出力料金が競合比4〜6割安。2本目は中国DeepSeekが9月10日公開のV4.1-Flash。総5520億・実働80億のMoE、MITライセンス、9月14日から上位V4-Proを置き換える。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:03:42 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月14日:新しいSiriは明日9月15日から——iOS 27でGemini基盤の会話型アシスタントが登場、日本語対応は10月。一方でVisa・Mastercard・AntはAIエージェントの本人確認「KYA」で協調</title>
+      <description>「AIが日常に溶け込む日」をテーマに二本立て。1本目は明日15日9月14日配信のiOS 27で登場する新しいSiri。グーグルのGeminiを土台にした基盤モデルを採用し、会話型で独立アプリ化、端末上とPrivate Cloud Computeの二段構え、iPhone 15 Pro以降とiPhone 18に対応。2本目は9月10日発表、Ant International・Visa・MastercardがAIエージェントの身元確認枠組み「KYA(ノウ・ユア・エージェント)」で協調。2030年に3〜5兆ドル規模とされる代行取引に向け、追跡・認証・継続監視の三本柱で相互運用を目指す。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-14_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-14_2.mp3" length="3085373" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Sep 2026 00:03:42 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月14日:新しいSiriが今日デビュー——iOS 27でGemini基盤の会話型アシスタントが登場。一方でVisa・Mastercard・AntはAIエージェントの本人確認「KYA」で協調</title>
       <description>「AIが日常に溶け込む日」をテーマに二本立て。1本目は今日9月14日配信のiOS 27で登場する新しいSiri。グーグルのGeminiを土台にした基盤モデルを採用し、会話型で独立アプリ化、端末上とPrivate Cloud Computeの二段構え、iPhone 15 Pro以降とiPhone 18に対応。2本目は9月10日発表、Ant International・Visa・MastercardがAIエージェントの身元確認枠組み「KYA(ノウ・ユア・エージェント)」で協調。2030年に3〜5兆ドル規模とされる代行取引に向け、追跡・認証・継続監視の三本柱で相互運用を目指す。</description>

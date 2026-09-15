@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:04:50 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月15日:AI大手3社が水面下で『標準化団体』を協議——ハサビス氏の提案を起点に公開前検査の共通ルールへ。オープンAIは今年のIPOを見送り、理由は『安全性』</title>
+      <description>今日は『AI業界が自らブレーキを踏みはじめた』空気をテーマに二本立て。1本目はCNNなどが9月14日に報じた話題。アンソロピック・オープンAI・グーグルディープマインドが7月から作業部会を重ね、最新モデルの公開前検査(独立した第三者評価・安全性レビュー・統一したリスク基準)を担う業界主導の標準化団体を構想。アモデイCEOが牽引し、ハサビス氏の7月のエッセイが発端。2本目はオープンAIのアルトマンCEOがフォーチュンに、安全性を理由に今年中のIPOを見送ると表明。非上場を保ち使命を優先する考えを示した。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-15_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-15_2.mp3" length="3204492" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2026 00:04:50 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月15日:AI大手3社が水面下で『標準化団体』を協議——アンソロピック主導で公開前検査の共通ルールへ。オープンAIは今年のIPOを見送り、理由は『安全性』</title>
       <description>今日は『AI業界が自らブレーキを踏みはじめた』空気をテーマに二本立て。1本目はCNNなどが9月14日に報じた話題。アンソロピック・オープンAI・グーグルディープマインドが7月から作業部会を重ね、最新モデルの公開前検査(独立した第三者評価・安全性レビュー・統一したリスク基準)を担う業界主導の標準化団体を構想。アモデイCEOが牽引し、ハサビス氏の7月のエッセイが発端。2本目はオープンAIのアルトマンCEOがフォーチュンに、安全性を理由に今年中のIPOを見送ると表明。非上場を保ち使命を優先する考えを示した。</description>

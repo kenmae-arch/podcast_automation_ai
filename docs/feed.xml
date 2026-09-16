@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:04:57 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月16日：グーグルが全エンジニアにClaude Opus 5を開放——社内で「Geminiは主役」としつつ他社モデルを解禁。AI減速論で半導体株が急落、NVIDIAは一時4%安</title>
+      <description>今日はAI業界の『本音』が見えた二本立て。1本目はビジネスインサイダー等が9月15日に報じた話題。グーグルが社内開発ツールAntigravityを通じ、全エンジニアにライバルAnthropicのClaude Opus 5を利用枠付きで開放。従来はGemini必須だった方針を転換しつつ『Geminiは引き続き主役』と強調し、コーディングでの他社優位を事実上認めた形。2本目は9月14日の米市場。アモデイCEOのAI減速論とアルトマン氏の同調を受け、NVIDIAが一時約4%安、フィラデルフィア半導体株指数(SOX)も6%近く下落。半面、サイバーセキュリティ関連株は上昇した。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-16_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-16_2.mp3" length="3595283" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 00:04:57 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月16日：グーグルが全エンジニアにClaude Opus 5を開放——社内で「Geminiは主役」としつつ他社モデルを解禁。AI減速論で半導体株が急落、NVIDIAは一時4%安</title>
       <description>今日はAI業界の『本音』が見えた二本立て。1本目はビジネスインサイダー等が9月15日に報じた話題。グーグルが社内開発ツールAntigravityを通じ、全エンジニアにライバルAnthropicのClaude Opus 5を利用枠付きで開放。従来はGemini必須だった方針を転換しつつ『Geminiは引き続き主役』と強調し、コーディングでの他社優位を事実上認めた形。2本目は9月14日の米市場。アモデイCEOのAI減速論とアルトマン氏の同調を受け、NVIDIAが一時約4%安、フィラデルフィア半導体株指数(SOX)も6%近く下落。半面、サイバーセキュリティ関連株は上昇した。</description>

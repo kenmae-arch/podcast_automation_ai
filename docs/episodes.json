@@ -376,5 +376,12 @@
     "audio_file": "episode_2026-09-16_2.mp3",
     "size_bytes": 3595283,
     "published": "2026-09-16T00:04:57.724783+00:00"
+  },
+  {
+    "title": "2026年9月17日：Googleが音声対話AI「Gemini 3.8 Live」を発表——1時間1.38ドルで97言語を聞き分け。Metaは「WhatsApp Business」の初期設定をAIエージェントに任せるMCPを公開",
+    "description": "テーマは『AIが声で話し、段取りを代わりにこなす日』。二本立て。1本目はGoogleが日本時間9月16日に発表した音声対話モデル、Gemini 3.8 LiveとExtended Thinking。会話を止めずに裏でツールを実行し、映像をほぼリアルタイム理解、97言語を文の途中でも切り替え。音声1時間1.38ドルとOpenAIより安価。2本目はMetaが同16日に公開したWhatsApp BusinessのMCP。Claude等のAIエージェントにチャットで頼むだけで、アカウント作成・OTP認証・クラウドAPI登録・テンプレ準備まで代行。当面は開発・テスト向けの段階公開。",
+    "audio_file": "episode_2026-09-17.mp3",
+    "size_bytes": 3054026,
+    "published": "2026-09-16T15:14:43.903957+00:00"
   }
 ]

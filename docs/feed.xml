@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:03:54 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月17日：Googleが音声対話AI「Gemini 3.8 Live」を発表——97言語を自動で聞き分け、会話を止めずに裏でツール実行。Metaは「WhatsApp Business」の初期設定をAIエージェントに任せるMCPを公開</title>
+      <description>テーマは『AIが声で話し、段取りを代わりにこなす日』。二本立て。1本目はGoogleが日本時間9月16日に発表した音声対話モデル、Gemini 3.8 LiveとExtended Thinking。会話を止めずに裏でツールを実行し、映像をほぼリアルタイム理解、97言語を文の途中でも切り替え。音声低コストとOpenAIより安価。2本目はMetaが同16日に公開したWhatsApp BusinessのMCP。Claude等のAIエージェントにチャットで頼むだけで、アカウント作成・OTP認証・クラウドAPI登録・テンプレ準備まで代行。当面は開発・テスト向けの段階公開。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-17_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-17_2.mp3" length="3313997" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 00:03:54 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月17日：Googleが音声対話AI「Gemini 3.8 Live」を発表——1時間1.38ドルで97言語を聞き分け。Metaは「WhatsApp Business」の初期設定をAIエージェントに任せるMCPを公開</title>
       <description>テーマは『AIが声で話し、段取りを代わりにこなす日』。二本立て。1本目はGoogleが日本時間9月16日に発表した音声対話モデル、Gemini 3.8 LiveとExtended Thinking。会話を止めずに裏でツールを実行し、映像をほぼリアルタイム理解、97言語を文の途中でも切り替え。音声1時間1.38ドルとOpenAIより安価。2本目はMetaが同16日に公開したWhatsApp BusinessのMCP。Claude等のAIエージェントにチャットで頼むだけで、アカウント作成・OTP認証・クラウドAPI登録・テンプレ準備まで代行。当面は開発・テスト向けの段階公開。</description>

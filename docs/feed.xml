@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:06:01 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月18日：Anthropicがクロードのチャットと作業スペース「コワーク」を統合、ドキュメント・スライド作成も追加——OpenAIはチャットGPT広告に「会話するAI」を導入</title>
+      <description>テーマは、二大AIラボが同じ頃に見せた対照的な一手。1本目はAnthropicが9月16日に発表したクロードの大型刷新。ふだんのチャットと作業用スペース「コワーク」を一つの画面に統合し、頼みごとの重さをクロード自身が判断。新機能のクロード・ドキュメントとクロード・スライドで文書やプレゼン資料を作り、パワーポイントやPDFで書き出せる。まずプロとマックス向けに順次提供。2本目はOpenAIがチャットGPT広告に導入する「スポンサード・エージェント」。広告主のAIと会話して質問でき、ハブスポットやショッピファイとも連携する。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-18_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-18_2.mp3" length="3263006" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 00:06:01 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月18日：Anthropicがクロードのチャットと作業スペース「コワーク」を統合、ドキュメント・スライド作成も追加——OpenAIはチャットGPT広告に「会話するAI」を導入</title>
       <description>テーマは、二大AIラボが同じ頃に見せた対照的な一手。1本目はAnthropicが9月16日に発表したクロードの大型刷新。ふだんのチャットと作業用スペース「コワーク」を一つの画面に統合し、頼みごとの重さをクロード自身が判断。新機能のクロード・ドキュメントとクロード・スライドで文書やプレゼン資料を作り、パワーポイントやPDFで書き出せる。まずプロとマックス向けに順次提供。2本目はOpenAIがチャットGPT広告に導入する「スポンサード・エージェント」。広告主のAIと会話して質問でき、ハブスポットやショッピファイとも連携する。</description>

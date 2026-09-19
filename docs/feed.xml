@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:04:21 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月19日：AppleがSafari 27にAIエージェント操作機能「MCP」を搭載——Claude CodeやCodexがブラウザを直接動かせる。GoogleはAIエージェント「CC」を最大6人の家族向けに拡張</title>
+      <description>テーマは『AIエージェントが日常のツールに入り込んだ日』。二本立て。1本目はAppleが9月17日に公開したSafari 27。MCP（モデル・コンテキスト・プロトコル）に対応し、Claude CodeやCodexなどのAIに、スクリーンショット・クリック・入力・通信確認など17種の操作でブラウザを直接動かせるように。処理はすべて手元のPC内で完結し個人情報は送られない。2本目はGoogleが同17日に発表した実験的AIエージェントCCの家族版。最大6人が専用アカウントを共有し、各自が渡した情報だけを『Your Day Ahead』という朝のブリーフにまとめる。買い物リストや献立も手伝い、家族共有と個人の記憶を分けて保持。まず米国18歳以上向け。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-19_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-19_2.mp3" length="3193625" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 00:04:21 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月19日：AppleがSafari 27にAIエージェント操作機能「MCP」を搭載——Claude CodeやCodexがブラウザを直接動かせる。GoogleはAIエージェント「CC」を最大6人の家族向けに拡張</title>
       <description>テーマは『AIエージェントが日常のツールに入り込んだ日』。二本立て。1本目はAppleが9月17日に公開したSafari 27。MCP（モデル・コンテキスト・プロトコル）に対応し、Claude CodeやCodexなどのAIに、スクリーンショット・クリック・入力・通信確認など17種の操作でブラウザを直接動かせるように。処理はすべて手元のPC内で完結し個人情報は送られない。2本目はGoogleが同17日に発表した実験的AIエージェントCCの家族版。最大6人が専用アカウントを共有し、各自が渡した情報だけを『Your Day Ahead』という朝のブリーフにまとめる。買い物リストや献立も手伝い、家族共有と個人の記憶を分けて保持。まず米国18歳以上向け。</description>

@@ -404,5 +404,12 @@
     "audio_file": "episode_2026-09-20_2.mp3",
     "size_bytes": 3430190,
     "published": "2026-09-20T00:06:05.670810+00:00"
+  },
+  {
+    "title": "2026年9月21日：AIコーディング四天王を襲った「Plugin4Shell」——プラグインの固定をすり抜けるゼロクリックの穴、Claude CodeとCodexは修正済み",
+    "description": "テーマは『AIコーディングツールの足回りに空いた穴』。セキュリティ企業AIRが9月17日に公表したPlugin4Shellは、Claude Code・Codex・GitHub Copilot・Gemini CLIという主要4エージェントのプラグイン固定をすり抜け、ユーザー操作なしで任意コードを実行しうる欠陥。開発者と同じ権限で動くため認証情報や本番環境に届く恐れ。Claude CodeとCodexは修正済み、Copilotとジェミニ側は9月20日時点で対応に議論が残る。悪用報告はなし。",
+    "audio_file": "episode_2026-09-21.mp3",
+    "size_bytes": 2856750,
+    "published": "2026-09-20T15:25:44.388921+00:00"
   }
 ]

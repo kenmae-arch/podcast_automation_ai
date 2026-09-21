@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:26:02 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月22日：AnthropicのClaudeがモデル開発の26%を自ら主導——「AIが自分の後継を作る」時代の一方で、OpenAI・Google・Anthropicは安全基準の標準化団体を協議</title>
+      <description>テーマは『AIが自分の後継を作り始めた日』。Anthropicは、自社AIのClaudeがモデル研究開発の約26%を主導するようになったと発表（9月18日報道）。今年2月はゼロ、開発の約9割は人とClaudeの共同作業で、完全自律ではない。減速を訴えるアモデイCEO自身の発表という皮肉も。あわせて、OpenAI・Anthropic・Googleが金融のFINRA型の自主規制・安全基準団体の設立を協議中（9月中旬報道、ハサビス氏が7月提唱）という動きも紹介します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-22.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-22.mp3" length="3120064" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Sep 2026 15:26:02 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月21日：AIコーディング四天王を襲った「Plugin4Shell」——プラグインの固定をすり抜けるゼロクリックの穴、Claude CodeとCodexは修正済み</title>
       <description>テーマは『AIコーディングツールの足回りに空いた穴』。セキュリティ企業AIRが9月17日に公表したPlugin4Shellは、Claude Code・Codex・GitHub Copilot・Gemini CLIという主要4エージェントのプラグイン固定をすり抜け、ユーザー操作なしで任意コードを実行しうる欠陥。開発者と同じ権限で動くため認証情報や本番環境に届く恐れ。Claude CodeとCodexは修正済み、Copilotとジェミニ側は9月20日時点で対応に議論が残る。悪用報告はなし。</description>

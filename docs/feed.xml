@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:11:59 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月23日：イーロン・マスクのxAIが新型「Grok 4.7」を投入——パラメータ4割増・50万トークン・価格据え置きも、Claude Fable 5.1には一歩譲る</title>
+      <description>テーマは『安さと賢さ、どっちで測る？ Grok 4.7の実像』。xAIが9月21日にフラッグシップの最新版Grok 4.7を発表。パラメータは約2兆1千億(前世代比4割増)、コンテキスト50万トークン、価格は入力100万トークン2ドル・出力6ドルで据え置き。長時間タスクへの粘りと自己検証、過去最強とうたう安全性が売りで、学習にはSpaceXのスターリンク衛星や製造・故障ログの実データも投入。一方、一部コーディングでGPT-5.6 Solを上回るが総合知能指数は中位でClaude Fable 5.1・GPT-6 Astra(53)に対し46。VentureBeatはトークン消費の多さで実運用のROIに注意と指摘。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-23_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-23_2.mp3" length="3326536" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 00:11:59 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月23日：イーロン・マスクのxAIが新型「Grok 4.7」を投入——パラメータ4割増・50万トークン・価格据え置きも、Claude Fable 5.1には一歩譲る</title>
       <description>テーマは『安さと賢さ、どっちで測る？ Grok 4.7の実像』。xAIが9月21日にフラッグシップの最新版Grok 4.7を発表。パラメータは約2兆1千億(前世代比4割増)、コンテキスト50万トークン、価格は入力100万トークン2ドル・出力6ドルで据え置き。長時間タスクへの粘りと自己検証、過去最強とうたう安全性が売りで、学習にはSpaceXのスターリンク衛星や製造・故障ログの実データも投入。一方、一部コーディングでGPT-5.6 Solを上回るが総合知能指数は中位でClaude Fable 5.1・GPT-6 Astra(53)に対し46。VentureBeatはトークン消費の多さで実運用のROIに注意と指摘。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:24:53 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月25日：AIが生物学の新発見を主導——AnthropicのClaudeが21時間の自律探索でCRISPRに似た未知の酵素システムを発見</title>
+      <description>テーマは『AIは科学を発見できるのか』。Anthropicが新設した生命科学ラボの初成果として、AIのClaudeが約19億のタンパク質クラスターを自律的に探索し、バクテリオファージの中からCRISPRに似た反復配列を持つ未知の酵素システム『アート(ART)』を発見したと発表(日本時間9月24日)。約21時間・950のエージェント・2億1千万トークンという規模、湿式実験は人間が担当した点、そして10回の再試行で同じ発見に至らなかった再現性の課題を紹介。CRISPRの父フェン・チャン博士の『さらなる調査に値する』という慎重な評価も添えます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-25.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-25.mp3" length="3642931" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 15:24:53 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月24日：AI各社トップが国連安保理でAIを議論——「制御を失うリスク」を語る同じ週に、より安く速い新モデルを続々投入</title>
       <description>テーマは『国連に立ったAIのトップたち』。日本時間9月24日朝、国連安全保障理事会がAIと国際安全保障のハイレベル会合を開催（9月の議長国フランス、バロ外相が議長）。証言に立ったのは国連科学者パネル共同議長のヨシュア・ベンジオ、OpenAIのアルトマン、Anthropicのアモデイ（遠隔）、Hugging Faceのデラング。悪用・ミスアライメント・制御喪失が論点で、アルトマンは能力と安全を測る共通ベンチマークを提唱、ベンジオは安全対策の遅れを警告。同じ週にAnthropicはOpus 5比40%安のClaude Opus 5.5、OpenAIはGPT-6 SolとLunaを投入した皮肉も紹介します。</description>

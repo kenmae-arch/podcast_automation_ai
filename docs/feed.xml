@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:05:42 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月27日：グーグル・OpenAI・Anthropicが合同のAI安全基準機関「SAFA」を計画／Claudeが9ループの物理計算を突破、人間の直接計算が届かなかった領域へ</title>
+      <description>テーマは『加速する実力と、追いかけるルール』。米メディア ジ・インフォメーションが9月24日、グーグル・OpenAI・Anthropicの3社が最先端AIの安全基準を定める合同機関(仮称SAFA)を計画中と報道。7月からのワーキンググループで共通テストや相互監査を議論、初代トップにスリラム・クリシュナン氏の名も。始動は年末〜来年初か。後半は9月25日発表、Claudeがヤン・ミルズ理論で前人未到の9ループ散乱振幅を一行の指示・約1週間・数千ドルで計算し、8ループ記録者ディクソン氏が検証した話題。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-27_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-27_2.mp3" length="3633318" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Sep 2026 00:05:42 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月27日：グーグル・OpenAI・Anthropicが合同のAI安全基準機関「SAFA」を計画／Claudeが前人未到の9ループ物理計算を突破</title>
       <description>テーマは『加速する実力と、追いかけるルール』。米メディア ジ・インフォメーションが9月24日、グーグル・OpenAI・Anthropicの3社が最先端AIの安全基準を定める合同機関(仮称SAFA)を計画中と報道。7月からのワーキンググループで共通テストや相互監査を議論、初代トップにスリラム・クリシュナン氏の名も。始動は年末〜来年初か。後半は9月25日発表、Claudeがヤン・ミルズ理論で前人未到の9ループ散乱振幅を一行の指示・約1週間・数千ドルで計算し、8ループ記録者ディクソン氏が検証した話題。</description>

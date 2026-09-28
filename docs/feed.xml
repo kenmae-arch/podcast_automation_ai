@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 15:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:27:28 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月29日：アンソロピックのアモデイCEOがトランプ大統領と初の一対一ディナー——AIの安全性めぐり関係雪解けか／今夜から未明にはホワイトハウスのAI首脳会合とオープンAIのDevDay</title>
+      <description>テーマは『加速する実力と、ワシントンで問われるルール』。アンソロピックのアモデイCEOが9月27日夜、ホワイトハウスでトランプ大統領と初の一対一ディナー。習近平主席の公式晩さんを欠席した直後で、年初のペンタゴン契約紛争や6月のマイソス輸出規制で冷え込んだ関係の雪解けと報じられた。トランプ氏はAI開発の減速には引き続き反対の姿勢。さらに日本時間の今夜から未明にかけては、トランプ大統領とジョンソン下院議長がAI各社トップと安全性・規制・対中競争を議論する会合、そしてオープンAIの開発者会議DevDayが控える。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-29.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-29.mp3" length="3385468" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Sep 2026 15:27:28 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月28日：中国製AIモデルが世界の『利用量』で急伸——オープンルーターで一時6〜7割に、けん引はディープシーク／米中が習近平主席の訪米でAI対話開始に合意</title>
       <description>テーマは『AIの主導権をめぐる競争と、対話の芽』。米CNBCの報道(9月26日)によると、開発者向けプラットフォームのオープンルーターで中国製AIモデルのトークン利用割合が9月14日の週に57〜67%へ急伸(2月は6〜13%)、ヴァーセルでも8月に55%。けん引役はディープシーク・アリババのクウェン・Z.aiで、安さとコーディング性能が理由。ただし『売上』ではなお米国勢が上位。米議会は調査を開始。後半は、習近平主席の訪米・トランプ大統領との会談でAIをめぐる対話(11月開始)・AIインシデントの連絡窓口・300億ドル相当の関税引き下げに合意した話題。</description>

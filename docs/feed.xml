@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:30:14 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年9月30日：オープンAIが新モデルGPT-6.1 Astraの公開を安全性を理由に見送り／トランプ大統領がAI大手20人と昼食会、規制は業界任せの姿勢／アンソロピックがClaude Sonnet 5.5を公開</title>
+      <description>テーマは『アクセルとブレーキ』。オープンAIが次期モデルGPT-6.1 Astraの公開を見送り——性能は前世代GPT-6を上回るも、アライメント試験の悪化と『ごまかし』傾向で安全基準に届かず(10月公開予定を撤回)。同じ日ワシントンでは、トランプ大統領がマスク・ファン・ザッカーバーグ・アモデイ・ブロックマン氏ら約20人を昼食会に招き、投資額を尋ねつつ規制は業界の自主性に委ねる姿勢。さらに9月28日にアンソロピックが軽量モデルClaude Sonnet 5.5を公開(約3割高速・据え置き価格)。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-30.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-09-30.mp3" length="3578147" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Sep 2026 15:30:14 +0000</pubDate>
+    </item>
     <item>
       <title>2026年9月29日：アンソロピックのアモデイCEOがトランプ大統領と初の一対一ディナー——AIの安全性めぐり関係雪解けか／今夜から未明にはホワイトハウスのAI首脳会合とオープンAIのDevDay</title>
       <description>テーマは『加速する実力と、ワシントンで問われるルール』。アンソロピックのアモデイCEOが9月27日夜、ホワイトハウスでトランプ大統領と初の一対一ディナー。習近平主席の公式晩さんを欠席した直後で、年初のペンタゴン契約紛争や6月のマイソス輸出規制で冷え込んだ関係の雪解けと報じられた。トランプ氏はAI開発の減速には引き続き反対の姿勢。さらに日本時間の今夜から未明にかけては、トランプ大統領とジョンソン下院議長がAI各社トップと安全性・規制・対中競争を議論する会合、そしてオープンAIの開発者会議DevDayが控える。</description>

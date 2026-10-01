@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:39:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:08:40 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月1日：オープンAIがDevDayで常時稼働エージェント『dots』と格安モデルGPT-6.1 Solを発表／米議会がAI規制で反発、高度AI開発を制限する超党派法案</title>
+      <description>テーマは『加速する開発と、追いつこうとするルール』。オープンAIが日本時間9月30日の開発者会議DevDayで20超の発表。目玉は常時稼働エージェント『dots』(GPT-6 Astra駆動・専用クラウドPC・4000以上のアプリ連携)、アストラ性能に迫り料金5分の1の新モデルGPT-6.1 Sol(入力2ドル/出力10ドル)、毎秒最大300トークンのUltrafastと月額500ドルのPro 500、プラグイン拡張機能。後半はワシントン——AI各社が求める独禁法の適用除外に議会が反発、9月30日に高度AI開発を制限する超党派法案が提出。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-01_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-01_2.mp3" length="3682264" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 00:08:40 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月1日：オープンAIがDevDayで常時稼働エージェント『dots』と格安モデルGPT-6.1 Solを発表／米議会がAI規制で反発、高度AI開発を制限する超党派法案</title>
       <description>テーマは『加速する開発と、追いつこうとするルール』。オープンAIが日本時間9月30日の開発者会議DevDayで20超の発表。目玉は常時稼働エージェント『dots』(GPT-6 Astra駆動・専用クラウドPC・4000以上のアプリ連携)、アストラ性能に迫り料金5分の1の新モデルGPT-6.1 Sol(入力2ドル/出力10ドル)、毎秒最大300トークンのUltrafastと月額500ドルのPro 500、プラグイン拡張機能。後半はワシントン——AI各社が求める独禁法の適用除外に議会が反発、9月30日に高度AI開発を制限する超党派法案が提出。</description>

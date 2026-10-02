@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:05:21 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月2日：グーグルが新フロンティアモデルGemini 4 Argonを発表、出力が100万トークンへ／バークレイズがClaudeを全社展開／AI大手3社が自主規制団体SAFA設立へ</title>
+      <description>テーマは『性能・現場・ルール』。グーグルが新フロンティアモデルGemini 4 Argonを発表——長丁場の推論に強く、一度に出力できる上限を前世代の6.4万トークンから100万トークンへ拡大、料金は入力100万トークンあたり2ドル/出力10ドルで、まずサイバー防御の専門家向けに提供開始。英大手銀バークレイズはClaudeを開発・社員向け知識アシスタント・市場部門のメール振り分け(1日約12万通)に展開し、年内に開発者の半数導入を目標。さらにオープンAI・グーグル・アンソロピックが、政府監督によらない自主規制団体SAFA(フロンティアAIの標準化機関)の年内〜来年初めの設立を計画と報じられています。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-02_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-02_2.mp3" length="3323610" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 00:05:21 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月2日：グーグルが新フロンティアモデルGemini 4 Argonを発表、出力が100万トークンへ／バークレイズがClaudeを全社展開／AI大手3社が自主規制団体SAFA設立へ</title>
       <description>テーマは『性能・現場・ルール』。グーグルが新フロンティアモデルGemini 4 Argonを発表——長丁場の推論に強く、一度に出力できる上限を前世代の6.4万トークンから100万トークンへ拡大、料金は入力100万トークンあたり2ドル/出力10ドルで、まずサイバー防御の専門家向けに提供開始。英大手銀バークレイズはClaudeを開発・社員向け知識アシスタント・市場部門のメール振り分け(1日約12万通)に展開し、年内に開発者の半数導入を目標。さらにオープンAI・グーグル・アンソロピックが、政府監督によらない自主規制団体SAFA(フロンティアAIの標準化機関)の年内〜来年初めの設立を計画と報じられています。</description>

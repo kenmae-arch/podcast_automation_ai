@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:10:13 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月5日:グーグルがGeminiの無料・格安プランで使えるモデルを制限（10月9日開始）／AIスロップ殺到でグーグルがOSSバグ報奨金の受け付けを一時停止</title>
+      <description>テーマは『グーグルが引いた2本の線』。1本目は、スマホアプリ版Geminiで契約プランごとに使えるモデルを制限する発表。10月9日から無料は最軽量のGemini 3.5 Flash-Liteのみ、月約5ドルのAI PlusはFlashまで、Proモデルと並行推論Deep Thinkは上位のAI Pro/Ultra限定に。2本目は、中身のない『AIスロップ』報告の殺到で、グーグルがオープンソースのバグ報奨金OSS VRPの新規受け付けを一時停止。定番ツールcurlも報奨金を終了しており、善意の仕組みがAI生成ノイズに押される状況を紹介します。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-05_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-05_2.mp3" length="4030424" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 00:10:13 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月5日:グーグルがGeminiの無料・格安プランで使えるモデルを制限（10月9日開始）／AIスロップ殺到でグーグルがOSSバグ報奨金の受け付けを一時停止</title>
       <description>テーマは『グーグルが引いた2本の線』。1本目は、スマホアプリ版Geminiで契約プランごとに使えるモデルを制限する発表。10月9日から無料は最軽量のGemini 3.5 Flash-Liteのみ、月約5ドルのAI PlusはFlashまで、Proモデルと並行推論Deep Thinkは上位のAI Pro/Ultra限定に。2本目は、中身のない『AIスロップ』報告の殺到で、グーグルがオープンソースのバグ報奨金OSS VRPの新規受け付けを一時停止。定番ツールcurlも報奨金を終了しており、善意の仕組みがAI生成ノイズに押される状況を紹介します。</description>

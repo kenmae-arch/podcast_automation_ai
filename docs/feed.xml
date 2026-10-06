@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:06:55 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月6日：AIの危険性めぐりニューヨーク市議会で主要4社が宣誓証言／GoogleがGeminiに新機能「スキル」導入——Gemsは2027年に置き換え</title>
+      <description>テーマは『AIのルールと使い勝手』。1本目は、米ニューヨーク市議会がAIの危険性をテーマに開く異例の公聴会。オープンAI・アンソロピック・Google・メタの政策担当者が宣誓のうえ証言台に立ち、51人の市議全員が出席する委員会全体会合で、各社の元従業員=内部告発者も証言すると報じられています。2本目は、GoogleがGeminiに新機能「スキル」を導入する件。Workspace向けは10月5日、アプリ向けは10月13日から展開。スラッシュで呼び出せる定型指示の仕組みで、従来のGemsは2027年に置き換えられます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-06_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-06_2.mp3" length="3869928" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 00:06:55 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月6日：AIの危険性めぐりニューヨーク市議会で主要4社が宣誓証言／GoogleがGeminiに新機能「スキル」導入——Gemsは2027年に置き換え</title>
       <description>テーマは『AIのルールと使い勝手』。1本目は、米ニューヨーク市議会がAIの危険性をテーマに開く異例の公聴会。オープンAI・アンソロピック・Google・メタの政策担当者が宣誓のうえ証言台に立ち、51人の市議全員が出席する委員会全体会合で、各社の元従業員=内部告発者も証言すると報じられています。2本目は、GoogleがGeminiに新機能「スキル」を導入する件。Workspace向けは10月5日、アプリ向けは10月13日から展開。スラッシュで呼び出せる定型指示の仕組みで、従来のGemsは2027年に置き換えられます。</description>

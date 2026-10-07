@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:07:31 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月7日：グーグルとコンステレーションが原発890メガワットの20年契約／エヌビディアはチップ担保で5000億ドル構想</title>
+      <description>テーマは『AIを動かす土台、電力とお金』。1本目は現地時間6日発表の、グーグルとコンステレーション・エナジーの原子力長期契約。米東部の送電網へ20年かけ890メガワットを新設、投資43億ドル超・雇用7200人、別枠で2700メガワットを15年供給。AIで電力網を賢くする取り組みも併走。背景のAIの電力需要急増と、マイクロソフト・アマゾンら原発回帰にも触れます。2本目はエヌビディアがチップを担保に5000億ドル規模のAI投資を回す構想と、ウォール街の慎重論。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-07_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-07_2.mp3" length="3504586" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 00:07:31 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月7日：グーグルとコンステレーションが原発890メガワットの20年契約／エヌビディアはチップ担保で5000億ドル構想</title>
       <description>テーマは『AIを動かす土台、電力とお金』。1本目は現地時間6日発表の、グーグルとコンステレーション・エナジーの原子力長期契約。米東部の送電網へ20年かけ890メガワットを新設、投資43億ドル超・雇用7200人、別枠で2700メガワットを15年供給。AIで電力網を賢くする取り組みも併走。背景のAIの電力需要急増と、マイクロソフト・アマゾンら原発回帰にも触れます。2本目はエヌビディアがチップを担保に5000億ドル規模のAI投資を回す構想と、ウォール街の慎重論。</description>

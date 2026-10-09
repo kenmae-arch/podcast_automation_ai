@@ -537,5 +537,12 @@
     "audio_file": "episode_2026-10-09_2.mp3",
     "size_bytes": 4624762,
     "published": "2026-10-09T00:08:05.500713+00:00"
+  },
+  {
+    "title": "2026年10月10日：ChatGPTが全ユーザーにGPT-6と対話型『Intelligent UI』／無料Geminiは10月9日から最小モデルのみに",
+    "description": "テーマは『身近なAIアプリが正反対に動く数日』。1本目はOpenAIが最新モデルGPT-6を有料10月7日・無料8日に全ユーザーへ展開、新UI『Intelligent UI』でグラフ・ボタン・ミニツールを会話内に表示（有料はSol、無料はLuna、待ち時間約44%短縮と説明）。2本目はグーグルが10月9日から無料Geminiを最小モデルFlash-Liteのみに制限、上位のFlash/Proは有料へ（9to5Google報）。全員に開くOpenAIと無料を絞るグーグル、対照的な戦略を紹介します。",
+    "audio_file": "episode_2026-10-10.mp3",
+    "size_bytes": 3311907,
+    "published": "2026-10-09T15:27:53.652483+00:00"
   }
 ]

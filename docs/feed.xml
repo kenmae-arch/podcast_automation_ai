@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:07:58 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月12日：OpenAIがAI生成の数学原稿722本を公開し数学者団体が『協力停止』を呼びかけ／AIエージェント『マヌス』がメタ離脱後初の5億ドル超調達</title>
+      <description>テーマは『AIの成果を、世界はどう扱うか』。1本目はOpenAIが10月6日にGitHubで公開した、社内の未公開AIモデルによる数学原稿722本。リーマン予想に関連する主張も含むが、機械検証済みは約2割の162本にとどまり、誤りで3本が撤回。数学者団体AHM(人間のための数学協会)は10月7日『力の誇示だ』として協力停止を呼びかけ、テレンス・タオ氏のブログにも声明が掲載された。2本目はAIエージェント『マヌス』が10月8日に5億ドル超を調達、ボユー・キャピタルとIDGキャピタルが主導しテンセントも参加。中国当局が白紙化したメタ買収から独立後、初の大型調達で香港上場検討とも報じられている。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-12_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-12_2.mp3" length="3645857" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 00:07:58 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月12日：OpenAIがAI生成の数学原稿722本を公開し数学者団体が『協力停止』を呼びかけ／AIエージェント『マヌス』がメタ離脱後初の5億ドル超調達</title>
       <description>テーマは『AIの成果を、世界はどう扱うか』。1本目はOpenAIが10月6日にGitHubで公開した、社内の未公開AIモデルによる数学原稿722本。リーマン予想に関連する主張も含むが、機械検証済みは約2割の162本にとどまり、誤りで3本が撤回。数学者団体AHM(人間のための数学協会)は10月7日『力の誇示だ』として協力停止を呼びかけ、テレンス・タオ氏のブログにも声明が掲載された。2本目はAIエージェント『マヌス』が10月8日に5億ドル超を調達、ボユー・キャピタルとIDGキャピタルが主導しテンセントも参加。中国当局が白紙化したメタ買収から独立後、初の大型調達で香港上場検討とも報じられている。</description>

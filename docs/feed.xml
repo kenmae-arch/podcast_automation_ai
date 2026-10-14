@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:25:51 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月15日：グーグルが『ジェミナイ・フォー・アルゴン』を一般公開し知能指数でトップ3入り／ロイター報道『アンソロピックとオープンAIが外部評価の公表内容に管理権を要求』</title>
+      <description>テーマは『AIの最前線：新モデル公開と、安全性評価の主導権争い』。1本目はグーグルが10月13日に最新モデル『ジェミナイ・フォー・アルゴン』を一般公開。有料APIや開発環境アンティグラビティ、ジェミニアプリで利用可能に。第三者ベンチマークの知能指数は53ポイントでトップ3入りし、導入価格は100万トークンあたり入力2ドル・出力10ドルと戦略的に低い（11月末まで）。2本目はロイターが10月13日、アンソロピックとオープンAIが外部評価機関の公表内容に管理権を求めていたと関係者情報として報道。9月の『編集の独立性』の約束と矛盾との指摘も。いずれも公式の正式発表・合意ではない。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-15.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-15.mp3" length="3403858" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 15:25:51 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月14日：アンソロピックが『小型AIは数か月内に家庭のIoT機器で自己複製しうる』と警告／オープンAIの年末の年換算売上は700億ドル超の見込みとブルームバーグ報道</title>
       <description>テーマは『AIの能力の最前線と、AIビジネスの現実』。1本目はアンソロピックのフロンティア・レッドチームが10月13日ごろに公表したと報じられた報告。パラメーター90億級の小型AIを9機種中8機種のIoT機器で実行し、安価なテレビ向け端末15台で分散実行(毎秒約0.4トークン)にも成功。ただし自己複製の全工程が通ったのは防御を緩めた条件下のみで、数か月内に現実味を帯びるという予測段階の警告。2本目はブルームバーグが10月13日、関係者情報としてオープンAIの年換算売上が2026年末に700億ドル超の見込み(9月末は約500億ドル)で企業向け事業がけん引と報道。いずれも各社の正式発表ではない。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:07:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:12:43 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月19日：レプリットが既定AIをアンソロピックからオープンAIへ切り替えとCEO発言（提携継続との異論も）／メタが「学習に使える」規約文言を撤回</title>
+      <description>テーマは『どのAIを選び、データにどう線を引くか』。1本目は現地17日、開発プラットフォームのレプリットのマサド氏がテッククランチ・ディスラプトで『アンソロピックとはもう組んでいない』と発言。既定モデルをオープンAIのChatGPTへ切り替えると述べ、理由はコスト・提携・性能の3点。利用者はクロードも選べるが大半は既定のまま使うため同社の支払いは大きく減る見込み。ただ関係者は『提携は継続中』と否定し、数週間前まで宣伝していた形跡もある。2本目はメタが、ビジネスアカウント配下のドメインやページを自社の学習に使えるとも読める規約文言を撤回。専門家が『あらゆる発行元を吸い上げられる』と警戒した一文で、メタは広告・事業者向け製品に限る・巡回方法は不変と釈明。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-19.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-19.mp3" length="3021843" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 15:12:43 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月18日：AI関連株が一斉安で『バブル』と借金への警戒強まる／リフレクションが初のオープンウェイトモデル『ビーム』を公開</title>
       <description>テーマは『冷える市場と、止まらない技術』。1本目は日本時間17日、米国株でAI関連銘柄が一斉安。ナスダック総合指数は金曜に約2%、週間で約4%下落し『AIバブル』警戒が再燃。データセンターを借金で拡大する資金繰りへの不安が引き金で、エヌビディア出資のコアウィーブは一日で約10%安。物価高・金利先高観・原油高も重なった。2本目は米リフレクションが初のオープンウェイトモデル『ビーム』を公開。総5010億・稼働230億パラメーターの混合専門家型で、商用可のアパッチ2.0ライセンス、ハギングフェイスで配布。GLM-5.2級と主張するが第三者評価はこれから。</description>

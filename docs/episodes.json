@@ -649,5 +649,12 @@
     "audio_file": "episode_2026-10-25_2.mp3",
     "size_bytes": 4149124,
     "published": "2026-10-24T15:11:02.263540+00:00"
+  },
+  {
+    "title": "2026年10月26日：OpenAIが値下げ攻勢でAnthropicのコーディング顧客を奪う(The Information報道)／OpenAIのセキュリティチームがNode.jsの脆弱性Node2Shellを発見",
+    "description": "テーマは『開発者をめぐるOpenAIの攻防』。1本目はThe Informationの報道で、OpenAIが3割超の値引きを武器にAnthropicのコーディング顧客を奪う件。ReplitはOpenAIを標準モデルに切り替え、RipplingでもOpenAIのコーディング比率が16から52パーセントへ上昇(数字は関係者情報)。2本目はOpenAIのCodexセキュリティチームが圧縮ライブラリBrotliにリモートコード実行の脆弱性Node2Shellを発見、Node.jsは10月21日に修正版を公開。",
+    "audio_file": "episode_2026-10-26.mp3",
+    "size_bytes": 3951848,
+    "published": "2026-10-25T15:13:43.422497+00:00"
   }
 ]

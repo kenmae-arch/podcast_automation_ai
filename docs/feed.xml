@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:13:39 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月27日：アンソロピックがIPO申請書類を公開しナスダックに『ANT』で上場へ(半年の売上163億ドル)／メタが最大950億ドルの大型増資でAIインフラ投資</title>
+      <description>テーマは『AIに流れ込む桁違いのお金』。1本目はアンソロピックが10月26日に上場申請書類(S-1)を公開、ナスダックにティッカーANTで11月中旬の上場を目指す件。1〜6月の売上は163億ドル、一方で転換社債の評価変動などによる会計上の最終赤字は807億ドル。投資家が見る企業価値は足元で約1兆5000億ドル。2本目は同じ26日、メタが最大950億ドルの増資を発表しAI向けデータセンターに投じる。まず350億ドルを公募、エヌビディアやAMD等が最大50億ドル購入に関心。いずれも報道・公式開示に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-27.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-27.mp3" length="3655052" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2026 15:13:39 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月26日：OpenAIが値下げ攻勢でAnthropicのコーディング顧客を奪う(The Information報道)／OpenAIのセキュリティチームがNode.jsの脆弱性Node2Shellを発見</title>
       <description>テーマは『開発者をめぐるOpenAIの攻防』。1本目はThe Informationの報道で、OpenAIが3割超の値引きを武器にAnthropicのコーディング顧客を奪う件。ReplitはOpenAIを標準モデルに切り替え、RipplingでもOpenAIのコーディング比率が16から52パーセントへ上昇(数字は関係者情報)。2本目はOpenAIのCodexセキュリティチームが圧縮ライブラリBrotliにリモートコード実行の脆弱性Node2Shellを発見、Node.jsは10月21日に修正版を公開。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:09:09 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月30日：アルファベット決算に市場が動揺(利益が予想に届かずスペースX株の評価損87億ドル、フリーキャッシュフローは91億ドルのマイナスで株価10%超下落)／OpenAIが事務作業向けの新モデル『GPT-6.1 Terra』を公開</title>
+      <description>テーマは『AIに注ぐお金と、AIで回す仕事』。1本目はグーグルの親会社アルファベットが現地時間10月28日に発表した7〜9月期決算。売上は1276億ドルで予想並みだったが1株利益は2ドル12セントと3ドル1セントほどの予想に届かず、主因は保有株の評価損87億ドル（スペースX株）。フリーキャッシュフローは約91億ドルのマイナス、設備投資は四半期で514億ドル、2026年通期は1950〜2050億ドルを据え置き、2027年も大幅増と述べるにとどめ具体額は次回決算へ。クラウドは307億ドルで倍増、全体は年換算5000億ドル規模。株価は時間外で10%超下落。2本目はOpenAIが10月26日に公開したGPT-6.1 Terra。APIは入力100万トークン1ドル・出力5ドルで上位モデルの半額、ChatGPT WorkとCodex、API経由で提供。報道・公式発表に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-30_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-30_2.mp3" length="3970238" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 00:09:09 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月30日：アルファベット決算に市場が動揺(フリーキャッシュフローがマイナス、2027年の設備投資は3000億ドル超との報道で株価が10%超下落)／OpenAIが事務作業向けの新モデル『GPT-6.1 Terra』を公開</title>
       <description>テーマは『AIに注ぐお金と、AIで回す仕事』。1本目はグーグルの親会社アルファベットが現地時間10月28日に発表した7〜9月期決算。売上と1株利益が市場予想を下回り、売上・利益の両方で予想割れはほぼ4年ぶり、株価は10%超下落。フリーキャッシュフローが約91億ドルのマイナスに落ち込み、2026年の設備投資は1950〜2050億ドルを維持、2027年は3000億ドル超との報道。ピチャイCEOはTPU需要の強さを強調。2本目はOpenAIが10月26日に公開したGPT-6.1 Terra。文章・画面認識・パソコン操作を組み合わせた事務作業向けモデルで、APIは前モデルより半額、処理は上位モデルの3倍以上速いと説明(いずれも社内公表値)。ChatGPT WorkやCodex、API経由で提供。報道・公式発表に基づく。</description>

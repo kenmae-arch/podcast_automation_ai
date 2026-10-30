@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:38:26 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年10月31日：アンソロピックがナスダック上場へS-1提出(ティッカーANT、上半期売上163億ドル)／ミストラルが1兆パラメータ級モデルをオープンウェイト公開／グーグルがサイバー特化フロンティア『Gemini 4 Carbon』発表</title>
+      <description>テーマは『お金・オープン化・安全保障』。1本目はアンソロピックが10月26日にSECへIPO申請書類S-1を提出。ナスダックにANTで上場予定、2026年上半期売上は約163億ドル(通年46億ドルの2025年から急拡大)、売上の約8割が従量課金、純損失807億ドルは転換社債の評価変動という会計要因が大きいと報道。早ければ11月上場との観測も。2本目はミストラルが10月29日、約1兆パラメータの最新モデル(愛称ル・チョンク)の重みをハギングフェイスで公開。欧州発の主権AIとしサイバー・コーディングに強いが悪用リスクも。3本目はグーグル・ディープマインドが10月28日発表のサイバー特化フロンティアGemini 4 Carbon。アルゴンに続く最上位で脆弱性の発見・再現・修正に強く、Fairwind経由で段階提供。ベンチマークは社内値。いずれも報道・公式発表に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-31.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-10-31.mp3" length="3201148" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 15:38:26 +0000</pubDate>
+    </item>
     <item>
       <title>2026年10月30日：アルファベット決算に市場が動揺(利益が予想に届かずスペースX株の評価損87億ドル、フリーキャッシュフローは91億ドルのマイナスで株価10%超下落)／OpenAIが事務作業向けの新モデル『GPT-6.1 Terra』を公開</title>
       <description>テーマは『AIに注ぐお金と、AIで回す仕事』。1本目はグーグルの親会社アルファベットが現地時間10月28日に発表した7〜9月期決算。売上は1276億ドルで予想並みだったが1株利益は2ドル12セントと3ドル1セントほどの予想に届かず、主因は保有株の評価損87億ドル（スペースX株）。フリーキャッシュフローは約91億ドルのマイナス、設備投資は四半期で514億ドル、2026年通期は1950〜2050億ドルを据え置き、2027年も大幅増と述べるにとどめ具体額は次回決算へ。クラウドは307億ドルで倍増、全体は年換算5000億ドル規模。株価は時間外で10%超下落。2本目はOpenAIが10月26日に公開したGPT-6.1 Terra。APIは入力100万トークン1ドル・出力5ドルで上位モデルの半額、ChatGPT WorkとCodex、API経由で提供。報道・公式発表に基づく。</description>

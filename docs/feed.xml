@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:12:01 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月2日：グーグルがジェミナイの「ジェムズ」を「スキルズ」へ移行(個人向けは11月17日、ファイルは12月17日までに保存)／アンソロピックがクロード・ソネット4.5を11月30日に提供終了(後継はソネット5.5)</title>
+      <description>テーマは『11月に重なるAIツールの世代交代』。1本目はグーグルがジェミナイの自作ボット機能『ジェムズ』を新機能『スキルズ』へ置き換え。10月13日で新規作成・編集は停止済み、個人アカウントは11月17日に自動移行、仕事・学校用は2027年。一部ファイルは引き継がれず個人向けは12月17日までにダウンロード推奨。スキルズはスラッシュで呼び出し複数併用可、無料でも使えるがキャンバスやディープリサーチは未対応。2本目はアンソロピックがクロード・ソネット4.5を11月30日に提供終了(9月30日告知、61日前通知)。対象はクロードのAPI・アマゾン・マイクロソフトのファウンドリー、後継はソネット5.5。いずれも各社の公式告知に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-02.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-02.mp3" length="3700191" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Nov 2026 15:12:01 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月1日：オープンエーアイが資金調達を200億ドルへ縮小・評価額も1兆2500億ドルに引き下げ（FT報道、初回クローズは200億ドル未満の見込み）／大手4社がAI学習お断りの共通合図を支持（効くのは学習だけ）／レディット株が約29%下落、グーグルのAI検索で流入減</title>
       <description>テーマは『AIを巡るお金・ルール・ウェブ』。1本目はオープンエーアイが進行中の資金調達の目標を約300億ドルから200億ドル前後へ、評価額も1兆4000億ドルから1兆2500億ドルへ引き下げ（FTが10月30日報道）。出資枠を減らす投資家が出て初回クローズは200億ドル未満の見込み、最大の出資者はMGXを含むUAEの投資家グループ、アンソロピックの上場で投資家層が重なる点も要因。2本目はグーグル・マイクロソフト・アンソロピック・オープンエーアイがrobots.txtの共通トークンを支持。効くのは学習だけで検索の巡回は続き、既存のデータセットや学習済みモデルからは消えない。マイクロソフトは2027年2月1日、グーグルは2027年中。3本目はレディットが7-9月期決算後に株価約29%下落（上場以来最悪）。売上は8億9500万ドルで53%増と予想超だが10-12月期見通しが未達、グーグルのAIモード/AI要約で検索流入が10月に週100万回以上減少と説明。</description>

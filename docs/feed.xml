@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:09:50 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月4日：推論基盤のfalが13億ドル調達・企業価値160億ドルで半年で倍増（ブルームバーグ報道、CEO「この夏は利用制限せざるを得なかった」）／クラウドストライクがAIセキュリティ2社を買収合意、金額は非公表でWSJは計約4億9500万ドルと報道</title>
+      <description>テーマは『AIの土台と、守りにお金が集まる』。1本目はブルームバーグが11月3日に報じた、画像・動画・音声モデルの推論基盤を手がけるfalの13億ドル調達。企業価値は160億ドルで、4月のセコイア主導3億5000万ドル・企業価値80億ドルから半年で倍増。主導は既存投資家のベッセマーで10月に主導と報道、エヌビディア・Sound Ventures・HOF Capital・T. Rowe Priceも参加し、ベッセマーのタリア・ゴールドバーグ氏が取締役入り。CEOのバーケイ・グル氏は「この夏、顧客に提供しきれず利用を制限せざるを得なかった」と説明。年換算売上8億ドルという関係者情報もあり、記事は有料でラウンドの呼称やクローズ時期は媒体により食い違う。2本目はクラウドストライクがフィドラーAI（2018年創業、エージェントの挙動を監視・説明。Falcon Observeとして提供）とドレッドノード（2023年創業、100超の攻撃手法で脱獄やプロンプトインジェクションを導入前に検証。Cyber Superintelligence Labへ合流）の買収で合意。買収額は非公表で、WSJは4億ドルと9500万ドルの計約4億9500万ドルと報道。支払いは現金中心で一部は条件つき株式、完了は会計年度第4四半期見込み。同日に「AIキルスイッチ」も発表。いずれも報道・公式発表に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-04.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-04.mp3" length="4440024" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Nov 2026 00:09:50 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月3日：オープンエーアイがChatGPTの「チャット」と「ワーク」を統合へ・利用枠をCodexと共通のトークン制に(12月予定、使い放題の見直し)／アンソロピックが個人プラン改定、Max 20xを「Ultra」に改称し5時間制限を撤廃(月200ドル・認証済み、週次上限は維持)</title>
       <description>テーマは『大手AIチャットの利用枠が動いた』。1本目はオープンエーアイがChatGPTの『チャット』と『ワーク』を一つに統合する方針を利用者向けメールで示し（テッククランチ報道）、まず一部ユーザーで小規模テスト。Codexはデスクトップアプリ内で別建てのまま。12月からプラス・プロ・ビジネスでChatGPTとCodexの利用量をトークンベースの共通枠から差し引く方式へ（これは同社ヘルプページに記載）。プロ100とプロ500は10月29日時点で枠が倍増、プラスは変更なし。ただしプランごとのトークン数は非開示で批判も。2本目はアンソロピックが10月30日に個人プランを改定、Max 5xをMax（月100ドル）、Max 20xをUltra（月200ドル・据え置き）に改称。認証済みUltraは5時間制限を撤廃だが新規アカウントは認証まで制限が残り、週次上限（プロの10倍）とFableの別枠は維持。TNWはAPIクレジットが100ドルから200ドルに増えたと報道。いずれも各社告知と報道に基づく。</description>

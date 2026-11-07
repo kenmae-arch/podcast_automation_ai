@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 00:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:12:25 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月8日：xAIがグロックの生成テキストに電子透かしをデフォルト導入（11月7日から・EUのAIアクト対応・7モデル対象で管理画面からオフ可）／グーグルの動画生成AIジェミナイ・オムニ・フラッシュ1.2が一般提供（最大15秒・会話で編集・約30%値下げ）</title>
+      <description>テーマは『AIがコンテンツを作る力と、見分ける仕組み』。1本目はxAIが11月7日から対話AIグロックの生成テキストに人間には見えない電子透かしをデフォルト導入。新旧7モデルと全テキスト出力が対象で、組み込み企業は自動適用・管理画面でモデル別にオフ可、判定ツールであり・なし・不明を返す。狙いはEUのAIアクト対応（今年8月発効、既存サービスは12月初め頃が期限）。文章の透かしはグーグルのシンセアイディーが先行、未導入は北米ChatGPTくらいと報道。書き換えや翻訳で消えうる点も。2本目はグーグルがジェミナイ・オムニ・フラッシュ1.2を11月5日に一般提供。生成動画が最大15秒に、会話編集・複数話者に対応、前版比約30%値下げ。いずれも報道・各社情報に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-08.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-08.mp3" length="3454013" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Nov 2026 15:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月7日：アンソロピックがクロードに家計管理機能『パーソナルファイナンス』を追加(米国の有料プラン向けベータ、プレイド経由で口座連携・読み取り専用)／アンソロピックがAP通信と初のコンテンツ提携か(アドウィーク報道、両社は公式に認めず)</title>
       <description>テーマは『アンソロピックが生活へ近づく』。1本目はアンソロピックが米国時間11月5日、クロードに家計管理機能パーソナルファイナンスをベータ提供。米国のプロ・マックス・ウルトラ有料会員向けで、プレイド経由で銀行口座やカードを連携（パスワードは渡さず読み取り専用で、送金や投資はできない）。残高・利用枠・最大2年分の取引を見て二重請求や手数料・固定費の上昇を指摘しグラフ化。家計のやりとりはモデル学習に使わず広告もなし、投資助言ではないので数字は銀行で確認するよう注意。プレイドも自社ブログで接続提供を明言。ChatGPTが先行したとする比較は裏が取れないため扱わない。2本目は広告媒体アドウィークが11月4日、関係者2人の話としてアンソロピックがAP通信とコンテンツ・データの利用で初の有料提携を結んだと報道。中間選挙直前で、開票夜にクロードがAP出典を明記して回答したとされる。金額・期間は非公表、集票や当確判定まで対象に含むかも不明で、両社は公式に認めていない。オープンエーアイが十数社と契約済みなのに対しアンソロピックは公正利用の立場だったが、アドウィーク自身は方針転換の印とは到底言えないとも書いている。数週間内の上場準備が背景。</description>

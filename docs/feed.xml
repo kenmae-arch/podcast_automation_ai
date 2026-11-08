@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:12:46 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月9日：ミラ・ムラティ氏のシンキング・マシンズ・ラボがアクセル主導で約50億ドル・評価額400億ドルの調達間近と報道(オープンエーアイの新ラウンドも初回110億ドルがクローズ)／中国アントグループがマルチモーダルAI『リン3.2フラッシュ』公開(総パラメータ5600億・最大100万トークン)</title>
+      <description>テーマは『AIに集まる桁違いのマネーと、効率で挑む中国の新モデル』。1本目は資金の話。元オープンエーアイ幹部ミラ・ムラティ氏のシンキング・マシンズ・ラボが、アクセル主導で約50億ドルを評価額400億ドルで調達間近とビジネスインサイダーが11月6日に報道(未確定)。あわせてオープンエーアイの新ラウンドも初回約110億ドルがクローズ・評価額1兆2500億ドルとブルームバーグが報道。2本目は中国アントグループがマルチモーダルAI『リン3.2フラッシュ』を公開。総パラメータ5600億・稼働250億・最大100万トークンで、文書理解でクロード・オーパス・ファイブを上回ると自社公表(第三者検証はこれから)。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-09.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-09.mp3" length="3018500" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Nov 2026 15:12:46 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月8日：xAIがグロックAPIの生成テキストに電子透かしをデフォルト導入（11月7日から・EUのAIアクト対応・新しめの7モデル対象で旧モデルは対象外）／グーグルの動画生成AIジェミナイ・オムニ・フラッシュ1.2が一般提供（最大15秒・会話で編集・約30%値下げ）</title>
       <description>テーマは『AIがコンテンツを作る力と、見分ける仕組み』。1本目はxAIが11月7日から、グロックAPIの生成テキストに人間には見えない電子透かしをデフォルト導入。対象はグロック4.7・4.6・4.5・4.3とグロック4.20の3種類をあわせた7モデルで、グロック4.1ファストやグロック4、グロック3などの旧モデルは対象外と報道。見えない文字を足すのではなく、秘密鍵で次トークンの選択をわずかに偏らせる統計的な方式のため文章は自然でコピペでも消えない。組み込み企業は自動適用で、チーム管理者が法的例外にあたることを確認したうえでモデル別にオフ可。判定ツールは利用に別途申請が必要で、あり・なし・不明を返す。狙いはEUのAIアクト対応（今年8月発効、既存サービスは12月初め頃が期限と伝えられる）。文章の透かしはグーグルが2024年からジェミナイに入れているシンセアイディーが先行し、未導入は北米ChatGPTくらいと報道。大幅な書き換え・翻訳・極端に短い出力では弱まり、xAIは書き換え後の検出可否を明らかにしていない。2本目はグーグルがジェミナイ・オムニ・フラッシュ1.2を11月5日に一般提供。オムニは5月19日のグーグル・アイ・オーで発表されたどんな入力からでも生成するモデル群だが出力は現状動画のみ（画像・音声出力は今後、上位版オムニ・プロは予告済み）。生成動画が最大10秒から15秒に、会話での編集に対応し、前版比約30%値下げ。オムニの生成動画はすべてシンセアイディーで透かしが入る。いずれも報道・各社情報に基づく。</description>

@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:13:07 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月13日：オープンエーアイがChatGPTに企業・商取引機能『ビジネシズ・イン・ChatGPT』を投入（ビジネスハブで公式プロフィール認証・ビジネスエージェントが接客し広告の受け皿にも／米国EC等限定）／アンソロピックがオフィス向けクロード・シーツ／ホワイトボード／ミーティングを発表＋ナスダックIPOロードショー開始（ティッカーANT）</title>
+      <description>テーマは『二大AI企業が広げる、お金の稼ぎ方』。1本目はオープンエーアイが11月10日、ChatGPT内に企業が参入できるベータ機能を発表。ビジネスハブで公式プロフィールを認証登録でき言及数などの集計も確認でき、ビジネスエージェントは自社専用チャット窓口として接客し、ChatGPT広告の受け皿にもなる（米国のEC等に限定）。2本目はアンソロピックが同日サンフランシスコでクロード・シーツ／ホワイトボード／ミーティング／データを発表しオフィス市場に参入。あわせて同社はナスダックにティッカーANTで上場申請、11月9〜10日頃にロードショー開始、上場は16日の週で評価額1.1〜1.75兆ドルと報じられる（いずれも未確定）。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-13.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-13.mp3" length="3867001" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2026 15:13:07 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月11日：アンソロピックが新最上位モデル「クロード・フェイブル5.2／ミソス5.2」発表（5.1比で最大3割高速・入出力とも値下げ）／イスラエルのAIエージェント安全スタートアップ「ベイ」が5000万ドル調達しステルス脱出（行動を実行前に検査）</title>
       <description>テーマは『賢くなるAIモデルと、エージェント時代の安全装置』。1本目はアンソロピックが11月9日に最上位モデル、クロード・フェイブル5.2とミソス5.2を発表。5.1比で出力最大3割高速、価格は100万トークンあたり入力8ドル・出力40ドルに値下げ。両者は中身同じで安全対策の違いだけ（フェイブルは広く提供、ミソスは審査済み組織限定）。ベンチマークは自社公表で第三者検証はこれから。2本目はイスラエルのベイが11月10日、AIエージェントの行動を実行前に検査する仕組みで5000万ドル（バッテリー主導のシリーズAが3700万、別途シード1300万）を調達しステルス脱出。</description>

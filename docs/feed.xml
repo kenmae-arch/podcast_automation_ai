@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:32:17 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月14日：グーグルが高速モデル「Gemini 4 Hydrogen」を公開（フラッシュ改め元素名シリーズ／上位アルゴンを一部ベンチで上回り約2.5倍速・入力1.5＆出力7.5ドル）／豪金融規制当局APRAが最先端AIを金融システムのリスクと名指し（アンソロピックやオープンエーアイのモデルのサイバー能力に警鐘・2027年にAIストレステスト）</title>
+      <description>テーマは『速くなるAIと、その裏で鳴る警鐘』。1本目はグーグルが現地11月12日、ジェミナイの新高速モデル『Gemini 4 Hydrogen』を発表。軽量モデルの呼び名を『フラッシュ』から水素・炭素など元素名に変更し、上位のアルゴンを一部ベンチで上回り前世代比約2.5倍速、料金は100万トークンあたり入力1.5・出力7.5ドルと案内。2本目はオーストラリアの健全性規制当局APRAが11月13日のシステムリスク見通しで、アンソロピックやオープンエーアイの最先端モデルが脆弱性発見・悪用やサイバー攻撃自動化の能力を高めていると名指しし、2027年から金融機関にAIストレステストを実施すると表明。各事実は報道・公表資料に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-14.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-14.mp3" length="3084119" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Nov 2026 15:32:17 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月13日：オープンエーアイがChatGPTに企業・商取引機能『ビジネシズ・イン・ChatGPT』を投入（ビジネスハブで公式プロフィール認証・ビジネスエージェントが接客し広告の受け皿にも／米国EC等限定）／アンソロピックがオフィス向けクロード・シーツ／ホワイトボード／ミーティングを発表＋ナスダックIPOロードショー開始（ティッカーANT）</title>
       <description>テーマは『二大AI企業が広げる、お金の稼ぎ方』。1本目はオープンエーアイが11月10日、ChatGPT内に企業が参入できるベータ機能を発表。ビジネスハブで公式プロフィールを認証登録でき言及数などの集計も確認でき、ビジネスエージェントは自社専用チャット窓口として接客し、ChatGPT広告の受け皿にもなる（米国のEC等に限定）。2本目はアンソロピックが同日サンフランシスコでクロード・シーツ／ホワイトボード／ミーティング／データを発表しオフィス市場に参入。あわせて同社はナスダックにティッカーANTで上場申請、11月9〜10日頃にロードショー開始、上場は16日の週で評価額1.1〜1.75兆ドルと報じられる（いずれも未確定）。</description>

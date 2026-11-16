@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:12:34 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月17日：アンソロピックが今週ナスダック上場へ（米国時間19日取引開始・銘柄コードANT／売り出し約8億2500万株・1株70〜78ドルでスペースXに次ぐ史上2番目規模との報道・評価額は9000億ドル〜1兆ドル超と見方割れ）／エヌビディアが新体制で初決算（創業者フアンがCEO退任・暫定CEOはクレス氏／日本時間18日未明発表・売上高見込み約1080億ドルもAIバブル懸念で直近株価は下落）</title>
+      <description>テーマは『AI相場を試す一週間』。1本目は対話AIクロードを手がけるアンソロピックの新規上場。報道では米国時間18日に価格を決め19日にナスダックで取引開始予定、銘柄コードはANT。売り出しは約8億2500万株、1株70〜78ドルで調達額は最大およそ640億ドル、スペースXに次ぐ史上2番目規模との報道もある。評価額は9000億ドルから1兆ドル超と見方が割れる。2本目はエヌビディアの決算。創業者ジェンスン・フアンが11日にCEOを退き暫定CEOはコレット・クレス。新体制初の決算が日本時間18日未明に発表され、売上高見込みは約1080億ドルだが直近で株価が1割超下落しAIバブル懸念もくすぶる。各事実は報道に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-17.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-17.mp3" length="3426010" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Nov 2026 15:12:34 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月16日：グーグルがジェミナイとグーグルウォレットを連携（米の全ジェミナイユーザーに公開・支出やサブスクを把握して家計相談に答える／読み取り専用で送金や投資は不可・初期設定オフ・任意で銀行口座も連携）／オープンエーアイが専任ロボティクスチームを解散し再編（最新の汎用モデルGPT-6 Astraで直接ロボット制御・エヌビディア研究で専用モデルを上回ると報道／ロボティクスは長期ビジョンの中核と釈明）</title>
       <description>テーマは『汎用AIが新しい領域に手を伸ばす』。1本目はグーグルが11月13日、ジェミナイとグーグルウォレットの連携機能を米国の全ジェミナイ利用者に公開。支出やサブスクの状況を把握して家計の相談に答え、任意で銀行口座やカードも連携できる。ただし読み取り専用で送金や投資はできず、初期設定はオフ。ウォレットのデータ自体はAIの学習に使わないと説明する。2本目は経済誌フォーチュンが11月13日、オープンエーアイが専任ロボティクスチームを解散し研究・製品部門と再編したと報道。汎用モデルGPT-6 Astraでロボットを直接制御できる見込みが背景で、エヌビディアの研究では専用モデルを上回ったとされる。同社はロボティクスは継続と釈明。各事実は報道に基づく。</description>

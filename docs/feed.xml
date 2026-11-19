@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:12:53 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月20日：グーグルが中位モデル「Gemini 4 Neon」発表（独立系ベンチの総合知能で61ポイント、クロード・オーパス5.5やGPT-6.2ソルを上回りコーディングは1位・入力3ドル/出力15ドルで上位Carbon比3割安）／アンソロピックがナスダックで取引開始（公開価格83ドル・調達813億ドルで史上最大IPO、寄り付きは83ドル近辺）／AIマネーは「選別」局面、OpenAIは調達縮小</title>
+      <description>3本立て。(1)グーグルが現地11月18日にGemini 4 Neonを発表。独立系アーティフィシャル・アナリシスの総合知能スコアは最高思考設定で61点とされ、Opus 5.5やGPT-6.2ソルを上回り、コーディング指標は1位と報道。API料金は100万トークンで入力3ドル・出力15ドル、標準設定なら上位Carbon比で1タスク3割以上安いとされる。(2)アンソロピックがナスダックで取引開始。公開価格83ドル、調達約813億ドルで史上最大IPO。日本時間未明に83ドル近辺で寄り付いたと報じられ、終値は本放送時点で未確定。(3)国内報道で、同社IPOは6〜7倍の応募が集まる一方、OpenAIは調達目標を縮小し評価額1兆2500億ドル規模・上場は2027年ごろとされる『選別』局面。各数値は報道・公式発表に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-20.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-20.mp3" length="3617897" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Nov 2026 15:12:53 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月19日：エヌビディア決算が「AIバブル」論争に答え合わせ（8〜10月期売上1158億ドル・前年比103%増／データセンター1076億ドルで同110%増・次世代チップ「ヴェラ・ルビン」出荷開始／11〜1月見通し1300億ドルは1週多い四半期で中国向けゼロ前提／暫定トップはコレット・クレス氏）／今夜アンソロピックがナスダック上場（銘柄コードANT・想定レンジ超えの1株83ドルで決定・約9億8000万株へ積み増し813億ドル調達で史上最大のIPO）</title>
       <description>テーマは『AIバブル論争の答え合わせ』。1本目は日本時間11月18日早朝に出たエヌビディアの2027年度第3四半期決算（現地11月17日発表）。売上高は約1158億ドルで前年比103%増・前四半期比20%増、データセンターは1076億ドルで同110%増と予想超え。次世代チップ『ヴェラ・ルビン』の出荷を開始。11〜1月の売上見通しは1300億ドル±3%だが、この四半期は例年より1週間長く、中国向けデータセンター売上は見込まない前提と報じられている。粗利率見通しは71〜72%。11月12日にジェンスン・フアン氏が辞任し、2013年からCFOのコレット・クレス氏が暫定CEO。クレス氏は辞任後最初の決算説明で「いつもどおりの業務が続いている」と述べ、今後の投資・約束・保証は厳格に精査すると語った。時間外で株価は一時5%近く上昇も、東京市場は日経平均が朝に500円超上げたあと164円高で終え反応は限定的。2本目は今夜のアンソロピックのナスダック上場。銘柄コードANT。当初想定の70〜78ドルを超える1株83ドルで18日に価格決定し、売り出し株数も計画の約8億2500万株から約9億8000万株へ積み増し。調達額は813億ドルで、スペースXを上回る史上最大のIPOと報じられた。需要は売り出し株の7倍前後。評価額はAP通信が1兆5000億ドル、別の集計では1兆2600億〜1兆4100億ドル。別枠の私募ではエヌビディア・グーグル・マイクロソフト・AMD・ブロードコム・マイクロン・TSMCの7社が議決権のない株を260億ドル分引き受け、グーグルとエヌビディアは各100億ドル。各事実は報道・公式発表に基づく。</description>

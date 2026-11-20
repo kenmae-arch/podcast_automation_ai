@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:18:47 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月20日：グーグルが中位モデル「Gemini 4 Neon」発表（独立系ベンチの総合知能61ポイントで世界3位・コーディング指標は自社計測で1位／入力3ドル・出力15ドル）／アンソロピックがナスダックで取引開始（公開価格83ドル・調達813億ドルで史上最大IPO、初値111ドル50セント・終値97ドル17セント）／AIマネーは「選別」局面、OpenAIは調達目標を最大200億ドルに縮小</title>
+      <description>3本立て。(1)グーグルが現地11月18日にGemini 4 Neonを発表。独立系アーティフィシャル・アナリシスの総合知能スコアは最高思考設定で61点、クロード・フェイブル5.2とGPT-6.2アストラに次ぐ世界3位。専門知識指標でオーパス5.5やGPT-6.2ソルを上回り、コーディング指標は1位（いずれもグーグル自社計測）。API料金は100万トークンで入力3ドル・出力15ドルで、割引中のCarbon（2ドル・10ドル、11月30日まで）より単価は高く、安いのは1タスクあたりの総額。(2)アンソロピックがナスダックで取引開始。公開価格83ドル、調達約813億ドルで6月のスペースエックス（750億ドル）を抜き史上最大IPO。初値は現地11時48分ごろに111ドル50セント（公開価格比+34%）、初日終値は97ドル17セント。(3)同社IPOには売り出し株の約6倍の購入希望が集まる一方、OpenAIは調達目標を300億ドル超から最大200億ドルへ、評価額も1兆4000億ドルから1兆2500億ドル規模に縮小し、上場は2027年ごろの見通し。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-20_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-20_2.mp3" length="4783585" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2026 00:18:47 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月20日：グーグルが中位モデル「Gemini 4 Neon」発表（独立系ベンチの総合知能で61ポイント、クロード・オーパス5.5やGPT-6.2ソルを上回りコーディングは1位・入力3ドル/出力15ドルで上位Carbon比3割安）／アンソロピックがナスダックで取引開始（公開価格83ドル・調達813億ドルで史上最大IPO、寄り付きは83ドル近辺）／AIマネーは「選別」局面、OpenAIは調達縮小</title>
       <description>3本立て。(1)グーグルが現地11月18日にGemini 4 Neonを発表。独立系アーティフィシャル・アナリシスの総合知能スコアは最高思考設定で61点とされ、Opus 5.5やGPT-6.2ソルを上回り、コーディング指標は1位と報道。API料金は100万トークンで入力3ドル・出力15ドル、標準設定なら上位Carbon比で1タスク3割以上安いとされる。(2)アンソロピックがナスダックで取引開始。公開価格83ドル、調達約813億ドルで史上最大IPO。日本時間未明に83ドル近辺で寄り付いたと報じられ、終値は本放送時点で未確定。(3)国内報道で、同社IPOは6〜7倍の応募が集まる一方、OpenAIは調達目標を縮小し評価額1兆2500億ドル規模・上場は2027年ごろとされる『選別』局面。各数値は報道・公式発表に基づく。</description>

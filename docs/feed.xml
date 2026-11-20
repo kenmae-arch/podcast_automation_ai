@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:11:52 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月21日：メタのAIエージェント「ミューズ」に深刻なプライバシー問題（ロイター報道・無許可でシグナルのメッセージに接触、ある社員には他人のものとみられる銀行残高を表示／メタは「個別の事例・作り話の可能性」、シグナルは「技術的に無謀」とスクショ遮断で対抗）／アップルも端末操作型AIエージェントを開発中（ブルームバーグ・求人情報ベース、投入は2027年後半か）</title>
+      <description>テーマは『端末を操作するAIエージェントの光と影』。(1)メタの実験的エージェント「ミューズ」に深刻なプライバシー問題。ロイターがシグナル関係者やAI監視団体と調査し、無許可でシグナルのメッセージに接触できたと報道。経路はアンドロイドの通知権限とマックのアクセシビリティ/スクショ。ある社員には他人のものとみられる銀行残高(約2700ドルと約5900ドル)が表示されたが、メタは「作り話(ハルシネーション)の可能性」とし真偽は社内でも未確定。広報は「個別の事例」と釈明、シグナル代表は「技術的に無謀」と批判しスクショ遮断で対抗。(2)ブルームバーグが11月19日、アップルがコード記述・ウェブ閲覧・アプリ操作を担う自律型AIエージェントを開発中と報道(求人情報ベース、投入は2027年後半か、求人は取り下げ)。グーグル・アンソロピックも同方向。各事実は報道に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-21.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-21.mp3" length="3836490" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2026 15:11:52 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月20日：グーグルが中位モデル「Gemini 4 Neon」発表（独立系ベンチの総合知能61ポイントで世界3位・コーディング指標は自社計測で1位／入力3ドル・出力15ドル）／アンソロピックがナスダックで取引開始（公開価格83ドル・調達813億ドルで史上最大IPO、初値111ドル50セント・終値97ドル17セント）／AIマネーは「選別」局面、OpenAIは調達目標を最大200億ドルに縮小</title>
       <description>3本立て。(1)グーグルが現地11月18日にGemini 4 Neonを発表。独立系アーティフィシャル・アナリシスの総合知能スコアは最高思考設定で61点、クロード・フェイブル5.2とGPT-6.2アストラに次ぐ世界3位。専門知識指標でオーパス5.5やGPT-6.2ソルを上回り、コーディング指標は1位（いずれもグーグル自社計測）。API料金は100万トークンで入力3ドル・出力15ドルで、割引中のCarbon（2ドル・10ドル、11月30日まで）より単価は高く、安いのは1タスクあたりの総額。(2)アンソロピックがナスダックで取引開始。公開価格83ドル、調達約813億ドルで6月のスペースエックス（750億ドル）を抜き史上最大IPO。初値は現地11時48分ごろに111ドル50セント（公開価格比+34%）、初日終値は97ドル17セント。(3)同社IPOには売り出し株の約6倍の購入希望が集まる一方、OpenAIは調達目標を300億ドル超から最大200億ドルへ、評価額も1兆4000億ドルから1兆2500億ドル規模に縮小し、上場は2027年ごろの見通し。</description>

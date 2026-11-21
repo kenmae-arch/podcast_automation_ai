@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:11:08 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月22日：AIバブル論争が再燃、米ハイテク株が急落（エヌビディアが金曜に急落し週間2桁安・ナスダック総合指数は調整局面入りと報道／数日前の史上最大アンソロピックIPOでも市場の不安は止まらず『天井では』の見方が拡大）強気派は『設備投資は継続・健全な調整で買い場』、弱気派は『循環出資による売上の水増し・2000年ドットコム再来』を警戒</title>
+      <description>テーマは『AIバブルは、はじけるのか』。現地時間11月20日金曜、米株式市場でハイテク株が大きく売られ、AI相場の主役エヌビディアは急落、週間では2桁安となり、10月初めの最高値から大きく値を下げました。ナスダック総合指数は調整局面入りと報じられています。数日前にアンソロピックが1株83ドル・史上最大規模で新規上場したばかりですが、その歴史的IPOでも市場の不安は止まらず『ここが天井では』との見方が拡大。番組では強気派（設備投資は続いており健全な調整で買い場との声）と弱気派（AI企業どうしの循環出資が売上を実態以上に見せている・2000年のドットコム再来を警戒）の両論を整理します。各事実は報道に基づきます。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-22.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-22.mp3" length="3050683" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Nov 2026 15:11:08 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月21日：メタのAIエージェント「ミューズ」に深刻なプライバシー問題（ロイター11/18報・無許可でシグナルのメッセージに接触、身に覚えのない銀行残高や発注が表示／ただし暗号化が破られた証拠はなくアイフォーンでは遮断、メタは「個別の事例・多くはハルシネーション」、シグナルは「技術的に無謀」とスクショ遮断）／アップルも端末操作型AIエージェントを開発中（ブルームバーグ11/19・求人情報ベース、早ければ2027年末）</title>
       <description>2本立て。(1)ロイターが11月18日、メタのAIエージェント「ミューズ」のプライバシー問題を報道。シグナル関係者とエーアイ・ナウ・インスティテュートの協力で、アンドロイドの通知権限とマックのアクセシビリティ／スクリーンショット経由でシグナルのメッセージが読める状態だったと確認。ただしシグナルの暗号化が破られた証拠はなく、読まれていたのは基本ソフトが画面・通知に表示済みの内容で、同じ要求はアイフォーンでは遮断された。社員からは身に覚えのない銀行残高・保育の依頼・キャリア相談・商品の発注が表示されたとの報告。メタ広報のダニエル・ロバーツ氏は「個別の事例」「多くはハルシネーション」とし、経済誌インクのジェイソン・エイトン氏によるメッセージのデータベース同期の指摘はメタが真っ向から否定して係争中。シグナルのメレディス・ウィテカー代表は「技術的に無謀」と批判しスクリーンショット遮断を表明。(2)ブルームバーグのマーク・ガーマン記者が11月19日、アップルが求人情報をもとに端末操作型の自律AIエージェントを開発中と報道。投入は早ければ2027年末、開発は初期段階。あわせてグーグルが11月19日にマック向けジェミニへコンピュータ操作機能を追加（隔離バックグラウンド実行、アップルシリコン＋有料プラン＋米国限定）。</description>

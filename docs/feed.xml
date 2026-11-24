@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:15:23 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月24日：中国AIのモデル攻勢とオープンウェイトの綱引き——アリババは最上位「クウェン4マックス」をAPI限定で囲い込み（独立指標では総合43点・全体11位と評価は渋め）、テンセントは11月20日に約7700億パラメータ／アクティブ490億・100万トークンの最上位フンユアンの重みを公開（11月18日には軽量のフラッシュ版も。ただしライセンスはアパッチ2.0ではなく独自ライセンス、8月28日のプレビュー版の完成版）</title>
+      <description>中国勢2社の対照的なモデル公開方針を掘り下げる回。(1)アリババは11月16日に最上位のQwen4-Maxを一般提供。「計画し、作り、仕上げまで届けるAIの同僚」とうたい、海外メディアは中国のAIエージェント競争を一歩リードと評したが、重みは非公開でAPI経由のみ。小型のQwen4はオープンウェイトで出す予定とされるがサイズも時期も未発表。独立指標ではアーティフィシャル・アナリシスの総合知能43点（前世代比9点増だがムーンショットの対抗モデルに3点届かず）、別サイトでは全体11位。(2)テンセントは11月20日、最上位フンユアンの重みを公開（自社告知で総パラメータ約7700億／アクティブ490億／100万トークン、ネイティブマルチモーダルのMoE、システムカードも同時公開）。11月18日には軽量のフラッシュ版（総2200〜2240億／1トークンあたり120億）の重みも公開。ライセンスはApache 2.0そのものではなくApache 2.0を基にしたテンセント独自ライセンスとされ、用途条件の確認が必要。なお8月28日に同じ7700億規模のプレビュー版が公開されており、今回はその完成版でシリーズの全公開がそろった。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-24_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-24_2.mp3" length="4140764" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2026 00:15:23 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月24日：中国AIのモデル攻勢とオープンウェイトの綱引き——アリババは最上位「クウェン4マックス」をAPI限定で囲い込み、テンセントは約7700億パラメータの次世代フンユアンをオープンソースで開放</title>
       <description>中国のAI開発に注目する回。アリババは先週フラッグシップの最新モデル『クウェン4マックス』を公開したが、重みは非公開でAPI提供のみ——これまで比較的オープンだった同社が最上位では囲い込みに転じた形(小型版はオープンウェイトで出す予定だがサイズ・時期は未発表)。対照的にテンセントは看板『フンユアン』の次世代大規模モデル(総パラメータ約7700億・アクティブ490億の混合エキスパート型)をオープンソースで公開し、公開後にオープンソース系ランキングで評価を上げたとサウスチャイナ・モーニング・ポストが報道。11月は10社超が18以上の新モデルを出したとも言われるラッシュで、『どこまで開くか』が各社戦略の分かれ目に。各事実は海外報道に基づく。</description>

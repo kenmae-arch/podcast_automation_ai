@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:12:38 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月26日：バイドゥとクラフトンが相次ぎオープンウェイトの新モデルを公開——中国のERNIE 5.5 Flash Preview(総2800億・アクティブ140億の混合エキスパート、100万トークン文脈)と韓国ゲーム大手クラフトンの自社製Raon-1 mini(300億)がともにApache 2.0で無料公開。グーグルは検索『AIモード』の個人情報連携をドライブ・ウォレット・ジェミニアプリへ拡大</title>
+      <description>オープンウェイト2本とグーグルの個人化を扱う回。(1)バイドゥが大規模モデルERNIE 5.5 Flash Previewの重みをApache 2.0で公開(11月24日発表・ハギングフェイス等で配布/総2800億・アクティブ140億の混合エキスパート型・最大100万トークン文脈/商用可だがプレビュー版の重みのみ)。(2)韓国のゲーム会社クラフトンが自社開発LLM『Raon-1 mini』(300億・アクティブ40億)を11月25日に正式公開、ゼロから設計・学習と明言しApache 2.0で無料配布。(3)グーグルが検索『AIモード』の個人情報連携をGメールに加えドライブ・ウォレット・ジェミニアプリへ拡大(オプトイン、ウォレットは読み取り専用)。各事実は公式発表・海外報道に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-26.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-26.mp3" length="3513363" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Nov 2026 15:12:38 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月25日：エヌビディアのフアン最高経営責任者が辞任から一転、取締役会が全会一致で復帰——11月11日に私生活と安全保障の懸念で即日退任（公表は12日）しクレス最高財務責任者が暫定トップ、23日に復帰（米政権高官の意見も踏まえ安全保障リスクなしと結論、トランプ大統領が後押し／ただし独立取締役による調査は最後まで継続）。月曜は終値で31.5%高の165.05ドルと20年以上ぶりの急騰でダウ1400ドル高・ナスダック6%高、翌火曜は5.86%安の155.38ドルに反落。ウォーレン上院議員は批判、会計処理の当局調査も継続</title>
       <description>エヌビディアのトップ交代と電撃復帰を時系列で整理する回。11月11日に取締役会がジェンスン・フアン氏の辞任を受け入れ（社長・CEO・取締役を即日退任、公表は12日）、コレット・クレス最高財務責任者が暫定CEOに。背景には私生活をめぐる問題と、海外の情報機関がフアン氏を標的にしていたという安全保障上の懸念があり、独立取締役による調査委員会が設置された。11月23日、取締役会は全会一致でフアン氏を社長・CEO・取締役に復帰させると発表。米政府高官からの意見も踏まえ安全保障上のリスクはないと結論づけ、フアン氏の率直さと経営力に納得したとした。同じ発表で、フアン氏が海外の情報機関の標的になっていたことを認め、調査は最後まで継続すると明記。トランプ大統領は自分が取締役会を説得したとCNBCに語り、決定を支持。クレス氏は最高財務責任者に復帰。市場は月曜に終値31.5%高の165.05ドル（20年以上ぶりの大幅高、時価総額約1兆ドル回復）、ダウ1400ドル高・ナスダック6%高でともに2025年4月以来の最高の一日。翌火曜は5.86%安の155.38ドルに反落し時価総額2400億ドル減。バーンスタインは目標200ドルで強気に格上げ。背景として、グーグルは以前から自社設計チップで主力モデルを学習させており、メタが2027年から顧客になりうるとの報道も。エリザベス・ウォーレン上院議員は復帰を批判し議会への説明責任を求め、会計処理をめぐる当局調査も継続中。フアン氏は従業員に謝罪したと伝えられる。</description>

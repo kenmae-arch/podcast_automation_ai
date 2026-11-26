@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:14:23 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月26日：バイドゥとクラフトンが相次ぎオープンウェイトの新モデルを公開——中国のERNIE 5.5 Flash Preview（総2800億・アクティブ140億の混合エキスパート、100万トークン文脈。ただし事後学習途中の中間チェックポイントでベースモデルは別ライセンス）と韓国ゲーム大手クラフトンの自社製Raon-1 mini（総300億・アクティブ40億、独自のリニアアテンション併用）がともにApache 2.0で無料公開。グーグルは11月23日、検索AIモードの個人情報連携「パーソナル・インテリジェンス」を拡大——いま使えるのはウォレットのみで、ドライブとジェミニアプリは数週間のうちに提供予定</title>
+      <description>3本立て。(1)バイドゥが現地11月24日、ERNIE 5.5 Flash Previewの重みをApache 2.0で公開。総2800億・アクティブ140億の混合エキスパートで文脈長は最大100万トークン、主要な推論エンジンで動かせる。ただし対象はプレビュー版の重みのみでベースモデルは別ライセンス。さらにバイドゥ自身のモデルカードは、これを事後学習途中の中間チェックポイントであり完成版ではないと明記している。(2)韓国のゲーム大手クラフトンが11月25日、自社開発のRaon-1 miniを正式公開。総300億・アクティブ40億の混合エキスパートに独自のリニアアテンションを組み合わせた軽量モデルで、ライセンスはApache 2.0、ハギングフェイスから入手できる。ゼロから自社で設計・学習したとしており、10月のプレビュー版から推論とエージェントのタスク実行が改善、応答モードの選択機能も追加。研究用途に加え商用利用も可。(3)グーグルが11月23日、検索AIモードの個人情報連携「パーソナル・インテリジェンス」の拡大を発表。現時点で順次提供が始まっているのはグーグル・ウォレットとの連携のみで、グーグル・ドライブとジェミニアプリは「数週間のうちに」とされ、価格も具体的な日付も未提示。任意のオプトインでいつでも切り替え可能、ウォレット連携は読み取り専用で送金や運用はできない。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-26_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-26_2.mp3" length="4249434" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2026 00:14:23 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月26日：バイドゥとクラフトンが相次ぎオープンウェイトの新モデルを公開——中国のERNIE 5.5 Flash Preview(総2800億・アクティブ140億の混合エキスパート、100万トークン文脈)と韓国ゲーム大手クラフトンの自社製Raon-1 mini(300億)がともにApache 2.0で無料公開。グーグルは検索『AIモード』の個人情報連携をドライブ・ウォレット・ジェミニアプリへ拡大</title>
       <description>オープンウェイト2本とグーグルの個人化を扱う回。(1)バイドゥが大規模モデルERNIE 5.5 Flash Previewの重みをApache 2.0で公開(11月24日発表・ハギングフェイス等で配布/総2800億・アクティブ140億の混合エキスパート型・最大100万トークン文脈/商用可だがプレビュー版の重みのみ)。(2)韓国のゲーム会社クラフトンが自社開発LLM『Raon-1 mini』(300億・アクティブ40億)を11月25日に正式公開、ゼロから設計・学習と明言しApache 2.0で無料配布。(3)グーグルが検索『AIモード』の個人情報連携をGメールに加えドライブ・ウォレット・ジェミニアプリへ拡大(オプトイン、ウォレットは読み取り専用)。各事実は公式発表・海外報道に基づく。</description>

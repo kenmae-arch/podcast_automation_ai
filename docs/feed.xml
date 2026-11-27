@@ -27,13 +27,6 @@
       <description>3本立て。(1)Claude Duetが日本でも利用可能に。10月21日に米国でウェイトリスト制の研究プレビューとして開始され、11月25日にカラン・アフジャ氏がXで日本・インド・ブラジル・インドネシアへの拡大を発表、アイティメディアなどが報道。対象はウェイトリスト登録済みのプロ／マックス／ウルトラで順次招待、チームプランは管理者が有効化可能。研究プレビュー中は追加料金なしで上限は通常チャットと共有、プロは3回・マックスとウルトラは1回の上限リセットつき。公式製品ページも11月26日時点で対象国を更新済み。(2)グーグル・リサーチが11月25日、多エージェント証明システムCogenticが人の介入ほぼなしで書いた数学論文6本（計274ページ）を公開リポジトリに掲載。10月30日以降の4本と合わせ計10本。Cogentic自体の論文は9月30日にアーカイブ投稿。ベースモデルは報道が一致せず（多数はGemini 4、別のまとめはGemini 3.1 ProとGemini 4 Argonの初期版）。注目の素因数分解の論文は約54ページでランダム化アルゴリズムを扱い、1992年以来追われてきた目標に取り組んだもの。いずれも未査読で、第三者は既存の暗号鍵の高速解読にはつながらないと指摘している。(3)Anthropicが11月25日、メッセージAPIをPythonからRustへ全面移行した技術ブログを公開。CPU使用量は1リクエストあたり約70%減、初回応答までの時間は中央値で約20%短縮、無停止かつ機能開発も止めずに実施。当初は出力解析部分のみRust化しPythonから呼ぶ折衷案を試したがCPU削減は8〜10%にとどまり、1トークンごとに境界を3往復する難点があった。コアの処理経路はClaudeが約1週間で初版を書き、最も手間がかかったのは稼働中のPython版を基準に出力を突き合わせる検証だった。</description>
       <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-27_2.mp3</guid>
       <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-27_2.mp3" length="4797378" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Nov 2026 00:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年11月27日：AnthropicのAIエージェント『Claude Duet』が日本でも利用可能に——先回りして動く秘書型。GoogleのCogenticは人の介入ほぼなしで数学論文6本を公開(未査読)、Anthropicはメッセージ基盤をRustへ刷新しCPU約7割減</title>
-      <description>3本立て。(1)アンソロピックの先回り型AIエージェント『Claude Duet』の研究プレビューが米国外に拡大し、日本・インド・ブラジル・インドネシアでも開始。対象はウェイトリスト登録済みのプロ/マックス/ウルトラ利用者で、送信・支払い等の前のみ人間が承認、プレビュー中は追加料金なし(公式ヘルプは米国限定の記載が残るとの指摘も)。(2)グーグルの多エージェント研究システム『Cogentic』がジェミナイ4をベースに、人間の介入は最初の指示のみで数学論文6本をネット公開。素因数分解で1992年来の理論記録更新を主張するが未査読・非公式で、実務上の暗号解読が速くなるわけではないとの指摘あり。(3)アンソロピックがメッセージAPIをパイソンからRustへ無停止で移行、1リクエストあたりCPU約7割減・初回応答約2割短縮(検証はClaudeエージェントが支援)。各事実は公式発表・海外報道に基づく。</description>
-      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-27.mp3</guid>
-      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-27.mp3" length="3308981" type="audio/mpeg"/>
       <pubDate>Thu, 26 Nov 2026 15:12:22 +0000</pubDate>
     </item>
     <item>

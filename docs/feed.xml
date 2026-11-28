@@ -13,7 +13,7 @@
       <link>https://kenmae-arch.github.io/podcast_automation_ai</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:20:33 +0000</lastBuildDate>
     <itunes:author>AI Insights Daily Podcast</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://kenmae-arch.github.io/podcast_automation_ai/cover.jpg"/>
@@ -22,6 +22,13 @@
       <itunes:name>AI Insights Daily Podcast</itunes:name>
       <itunes:email>k-maekawa-9jt@eagle.sophia.ac.jp</itunes:email>
     </itunes:owner>
+    <item>
+      <title>2026年11月28日:経営破綻したCharacter.AIが2100万件超の非公開チャット履歴を1000万ドルで売却へ——42州とコロンビア特別区の司法長官が差し止めを申し立て(12月1日競売予定、子どものアカウント200万件分や自作キャラクター・学習用データも対象、ディズニーは別途2000万ドルで知的財産のライセンスを提示)。OpenAIはChatGPTの『チャット』『ワーク』とCodexを12月から共通のトークン枠へ統合</title>
+      <description>2本立て。(1)対話型AI『Character.AI』が10月に連邦破産法第11条を申請、12月1日に資産とユーザーデータを競売にかける計画。アプリとAIモデル、ユーザーデータを1000万ドルで売る内容で、対象は米国内2100万件超のアカウントのチャット履歴(うち200万件以上が18歳未満)、ユーザー自作のキャラクター、アカウント情報、アイピーアドレス、AI学習用データセット。42州とコロンビア特別区の司法長官が11月20日夜にデラウェア州の破産裁判所へいまの条件での売却停止を申し立て(メリーランド州司法長官が11月24日に公表)、買い手がプライバシーポリシーを引き継ぐ義務を負わない点を問題視。唯一の入札者スマークス・アンド・パングス・アクイジションは選定前日にデラウェア州で設立され、資金の出し手非開示を理由に連邦管財官が11月19日に異議。その後オクターブ・アドバイザーズの支援が開示され裁判官が最初の入札者として承認。別の買い手が勝った場合の35万ドルの支払いには司法長官らが反対。ディズニーは非独占の知的財産ライセンスに別途2000万ドルを提示(ユーザーデータ・チャット履歴・アプリ・商標は含まず)。売却自体の判断は未了。(2)OpenAIがChatGPTの『チャット』『ワーク』とコーディング用Codexを12月から有料プラン(プラス/プロ/ビジネス)で共通の利用枠に統合。ワークのエージェント機能を本体へ統合することに伴う変更で、消費は回数ではなくトークン単位。一部のプロ利用者に先行提供中。無料・ゴー・エンタープライズ・エデュは対象外。インスタント処理の短いチャットは枠外。10月末にはプロ向けの削減撤回・一部2倍化も報じられた。各事実は海外報道に基づく。</description>
+      <guid isPermaLink="false">https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-28_2.mp3</guid>
+      <enclosure url="https://kenmae-arch.github.io/podcast_automation_ai/audio/episode_2026-11-28_2.mp3" length="4921094" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Nov 2026 00:20:33 +0000</pubDate>
+    </item>
     <item>
       <title>2026年11月28日:経営破綻したCharacter.AIが2100万件超の非公開チャット履歴を競売へ——42州の司法長官が差し止めを申し立て(12月1日競売予定、子どものアカウント200万件分や会社が付けた危険度スコアも対象)。OpenAIはChatGPTの『チャット』『ワーク』とCodexを12月から共通の利用枠へ統合</title>
       <description>2本立て。(1)対話型AI『Character.AI』が10月に連邦破産法第11条を申請、12月1日に資産とユーザーデータを競売にかける計画。対象は米国内2100万件超のアカウントのチャット履歴(うち200万件以上が18歳未満)、アイピーアドレスやアカウント情報、会社がユーザーごとに付けた危険度スコアまで含む。42州の司法長官が11月24日、デラウェア州の破産裁判所に差し止めを申し立て(買い手がプライバシーポリシーを守る義務を負わない点などを問題視)。唯一の入札者は11月13日設立の買収目的会社。(2)OpenAIがChatGPTの『チャット』『ワーク』とコーディング用Codexを12月から有料プラン(プラス/プロ/ビジネス)で共通の利用枠に統合。ヘビーユーザーは上限に早く達する可能性。10月末にはプロの上限半減撤回・一部倍増も。各事実は海外報道に基づく。</description>
